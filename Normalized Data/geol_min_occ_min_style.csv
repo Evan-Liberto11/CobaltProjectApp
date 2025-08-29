@@ -1,0 +1,99 @@
+min_style_auto_id,geol_min_occ_id,min_style
+1,1,disseminated
+2,1,"stringer-style veins"
+3,1,"stratiform mas"
+4,2,disseminated
+5,2,"stringer-style veins"
+6,2,"stratiform mas"
+7,11,grains
+8,11,veinlets
+9,11,"lenticular masses"
+10,13,"lenses (1)"
+11,15,disseminations
+12,15,bands
+13,15,blebs
+14,15,stringers
+15,16,disseminations
+16,16,blebs
+17,16,stringers
+18,18,pods
+19,18,lenses
+20,18,crystals
+21,18,veins
+22,18,disseminations
+23,20,lenses
+24,21,"blebs (1)"
+25,21,"porphyroblastic crystals (1)"
+26,22,disseminated
+27,23,disseminated
+28,24,veins
+29,24,patches
+30,24,blebs
+31,24,crystals
+32,24,veins
+33,24,patches
+34,24,blebs
+35,24,crystals
+36,25,veins
+37,25,patches
+38,25,blebs
+39,25,crystals
+40,25,veins
+41,25,patches
+42,25,blebs
+43,25,crystals
+44,26,veins
+45,26,patches
+46,26,blebs
+47,26,crystals
+48,28,"eutectic and replacement"
+49,28,grains
+50,28,seams
+51,28,veinlets
+52,29,grains
+53,29,lamellae
+54,29,patches
+55,30,grains
+56,30,lamellae
+57,30,patches
+58,31,aggregates
+59,31,blebs
+60,31,stringers
+61,31,grains
+62,32,grains
+63,32,veins
+64,32,pods
+65,33,grains
+66,34,grains
+67,35,grains
+68,36,grains
+69,37,grains
+70,38,grains
+71,39,disseminated
+72,41,disseminated
+73,41,breccia-fillings
+74,41,fracture-fillings
+75,42,lens
+76,42,laminations
+77,42,disseminated
+78,42,"lenticular masses"
+79,43,crystals
+80,43,disseminated
+81,43,"massive bedded"
+82,43,veinlets
+83,44,"vein hosted"
+84,44,"massive bedded"
+85,45,veins
+86,46,"fracture fillings"
+87,46,veins
+88,47,horizons
+89,49,veins
+90,50,"ore bodies"
+91,50,veins
+92,51,masses
+93,52,masses
+94,53,masses
+95,54,masses
+96,55,masses
+97,56,masses
+98,57,masses

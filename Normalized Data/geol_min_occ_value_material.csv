@@ -1,0 +1,283 @@
+value_material_auto_id,geol_min_occ_id,value_material
+1,1,chalcopyrite
+2,1,bornite
+3,1,chalcocite
+4,1,pyrite
+5,1,carrollite
+6,1,"cobaltiferous pyrite (1)"
+7,2,chalcopyrite
+8,2,bornite
+9,2,chalcocite
+10,2,pyrite
+11,2,carrollite
+12,2,"cobaltiferous pyrite (1)"
+13,3,pentlandite
+14,3,pyrrhotite
+15,3,chalcopyrite
+16,4,pentlandite
+17,4,pyrrhotite
+18,4,chalcopyrite
+19,5,pentlandite
+20,5,pyrrhotite
+21,5,chalcopyrite
+22,6,pentlandite
+23,6,pyrrhotite
+24,6,chalcopyrite
+25,7,pentlandite
+26,7,pyrrhotite
+27,7,chalcopyrite
+28,8,pentlandite
+29,8,pyrrhotite
+30,8,chalcopyrite
+31,9,pentlandite
+32,9,pyrrhotite
+33,9,chalcopyrite
+34,10,pentlandite
+35,10,pyrrhotite
+36,10,chalcopyrite
+37,11,pyrrhotite
+38,11,pentlandite
+39,11,chalcopyrite
+40,12,olivine
+41,12,serpentine
+42,12,limonite
+43,12,hematite
+44,13,laterite
+45,13,saprolite
+46,13,serpentine
+47,14,cobaltite
+48,14,pyrite
+49,14,chalcopyrite
+50,14,"cobaltian arsenopyrite"
+51,14,pyrrhotite
+52,14,gold
+53,14,silver
+54,15,cobaltite
+55,15,linnaeite
+56,15,safflorite
+57,15,enargite
+58,15,"pyrite (1)"
+59,15,chalcopyrite
+60,15,"cobaltian arsenopyrite (1)"
+61,15,gold
+62,15,"silver  (1)"
+63,16,cobaltite
+64,16,linnaeite
+65,16,safflorite
+66,16,enargite
+67,16,"pyrite (1)"
+68,16,chalcopyrite
+69,16,"cobaltian arsenopyrite (1)"
+70,16,gold
+71,16,"silver  (1)"
+72,17,magnetite
+73,17,pyrite
+74,18,pyrite
+75,18,magnetite
+76,18,chalcopyrite
+77,18,"native copper"
+78,18,"cobaltian pyrite"
+79,18,cobaltite
+80,18,malachite
+81,20,chalcopyrite
+82,20,magnetite
+83,20,pyrite
+84,21,chalcopyrite
+85,21,chalcocite
+86,21,"cobaltite (1)"
+87,21,"pyrrhotite (1)"
+88,22,pyrrhotite
+89,22,pentlandite
+90,22,chalcopyrite
+91,23,plagioclase
+92,23,pyrrhotite
+93,23,pentlandite
+94,23,chalcopyrite
+95,24,chalcopyrite
+96,24,cubanite
+97,24,pyrrhotite
+98,24,pentlandite
+99,24,violarite
+100,24,millerite
+101,24,chalcopyrite
+102,24,cubanite
+103,24,pyrrhotite
+104,24,pentlandite
+105,24,violarite
+106,24,millerite
+107,25,chalcopyrite
+108,25,cubanite
+109,25,pyrrhotite
+110,25,pentlandite
+111,25,violarite
+112,25,millerite
+113,25,chalcopyrite
+114,25,cubanite
+115,25,pyrrhotite
+116,25,pentlandite
+117,25,violarite
+118,25,millerite
+119,26,chalcopyrite
+120,26,cubanite
+121,26,pyrrhotite
+122,26,pentlandite
+123,26,violarite
+124,26,millerite
+125,27,chalcopyrite
+126,27,cubanite
+127,27,pentlandite
+128,27,pyrrhotite
+129,27,platinum
+130,27,gold
+131,27,palladium
+132,28,talnakhite
+133,28,bornite
+134,28,mooihoekite
+135,28,putoranite
+136,28,haycockite
+137,28,"chromian spinel"
+138,28,chromite
+139,28,"native copper"
+140,28,troilite
+141,28,bornite
+142,29,chalcopyrite
+143,29,cubanite
+144,29,pentlandite
+145,29,pyrrhotite
+146,29,talnakhite
+147,29,bornite
+148,29,covellite
+149,29,millerite
+150,29,michenerite
+151,29,moncheite
+152,30,chalcopyrite
+153,30,cubanite
+154,30,pentlandite
+155,30,pyrrhotite
+156,30,talnakhite
+157,30,bornite
+158,30,covellite
+159,30,millerite
+160,30,michenerite
+161,30,moncheite
+162,31,chalcopyrite
+163,31,cubanite
+164,31,pyrrhotite
+165,31,pentlandite
+166,31,bornite
+167,31,neodigenite
+168,31,covellite
+169,31,chalcocite
+170,31,tenorite
+171,31,cuprite
+172,32,pyrrhotite
+173,32,pentlandite
+174,32,chalcopyrite
+175,32,cubanite
+176,33,pyrrhotite
+177,33,pentlandite
+178,33,chalcopyrite
+179,33,cubanite
+180,34,pyrrhotite
+181,34,pentlandite
+182,34,chalcopyrite
+183,34,cubanite
+184,35,pyrrhotite
+185,35,pentlandite
+186,35,chalcopyrite
+187,35,cubanite
+188,36,pyrrhotite
+189,36,pentlandite
+190,36,chalcopyrite
+191,36,cubanite
+192,37,pyrrhotite
+193,37,pentlandite
+194,37,chalcopyrite
+195,37,cubanite
+196,38,pyrrhotite
+197,38,pentlandite
+198,38,chalcopyrite
+199,38,cubanite
+200,39,galena
+201,40,galena
+202,40,chalcopyrite
+203,40,siegenite
+204,40,millerite
+205,40,bravoite
+206,40,sphalerite
+207,40,"argentiferous marcasite"
+208,41,magnetite
+209,41,hematite
+210,41,"cobalt-bearing chalcopyrite"
+211,41,bornite
+212,41,"native gold"
+213,41,"sphalerite (1)"
+214,41,"cubanite (1)"
+215,41,"chalcocite (1)"
+216,41,"cobaltite (1)"
+217,42,chalcopyrite
+218,42,pyrite
+219,42,bornite
+220,42,tennantite
+221,42,cobaltite
+222,42,siegenite
+223,42,marcasite
+224,43,pyrite
+225,43,chalcopyrite
+226,43,marcasite
+227,43,siegenite
+228,44,pyrite
+229,44,chalcopyrite
+230,44,marcasite
+231,45,genthite
+232,45,"nickeliferous serpentine"
+233,45,"nickeliferous vermiculite"
+234,45,"nickeliferous deweylite"
+235,45,"garnierite (1)"
+236,46,"nickel skutterudite"
+237,46,silver
+238,46,argentite
+239,46,galena
+240,46,pyrite
+241,46,chalcopyrite
+242,46,sphalerite
+243,46,niccolite
+244,46,smaltite
+245,47,pyrite
+246,47,marcasite
+247,47,sphalerite
+248,47,chalcopyrite
+249,47,linnaeite
+250,47,tetrahedrite
+251,47,stannite
+252,47,galena
+253,47,pyrrhotite
+254,48,garnierite
+255,49,garnierite
+256,50,chalcopyrite
+257,50,magnetite
+258,50,pyrite
+259,51,laterite
+260,51,serpentine
+261,52,laterite
+262,52,serpentine
+263,53,laterite
+264,53,serpentine
+265,54,laterite
+266,54,serpentine
+267,55,laterite
+268,55,serpentine
+269,56,laterite
+270,56,serpentine
+271,57,laterite
+272,57,serpentine
+273,58,pyrrhotite
+274,58,pyrite
+275,58,chalcopyrite
+276,58,sphalerite
+277,58,magnetite
+278,58,"native copper"
+279,58,"bornite (1)"
+280,58,"arsenopyrite (1)"
+281,58,"covellite (1)"
+282,58,"marcasite (1)"

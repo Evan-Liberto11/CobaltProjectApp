@@ -1,0 +1,6 @@
+loc_poly_sw_auto_id,ftr_id,last_updt,state,county,loc_date,ref_detail,reference_id,area_sqkm,area_acres,remarks
+1,Sw00132,6/6/2018,AK,"Northwest Arctic",2014,"World Imagery",40,<1,"5",NULL
+2,Sw00122,4/4/2018,ID,Lemhi,2016,"World Imagery",40,4,"919",NULL
+3,Sw00040,9/25/2017,MI,Marquette,2015,"World Imagery",40,<1,"134",NULL
+4,Sw00126,5/8/2018,MO,Madison,2016,"World Imagery",40,<1,"181",NULL
+5,Sw00125,4/27/2018,OR,Douglas,2016,"World Imagery",40,3,"720",NULL

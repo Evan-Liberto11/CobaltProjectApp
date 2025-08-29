@@ -1,0 +1,212 @@
+assoc_material_auto_id,geol_min_occ_id,assoc_material
+1,1,carrolllite
+2,1,digenite
+3,1,tennantite-tetrahedrite
+4,1,covellite
+5,2,carrolllite
+6,2,digenite
+7,2,tennantite-tetrahedrite
+8,2,covellite
+9,12,magnetite
+10,12,orthopyroxene
+11,12,chromite
+12,12,clinopyroxene
+13,12,talc
+14,12,pyrolusite
+15,12,chlorite
+16,12,"clay minerals"
+17,12,quartz
+18,13,limonite
+19,13,hematite
+20,13,goethite
+21,13,chromite
+22,14,biotite
+23,14,tourmaline
+24,14,quartz
+25,14,siderite
+26,14,xenotime
+27,14,monazite
+28,14,bismuth
+29,15,"biotite (1)"
+30,15,"tourmaline (1)"
+31,15,quartz
+32,15,"siderite (1)"
+33,15,xenotime
+34,15,monazite
+35,15,"bismuth (1)"
+36,15,allanite
+37,15,loellingite
+38,15,marcasite
+39,16,"biotite (1)"
+40,16,"tourmaline (1)"
+41,16,quartz
+42,16,"siderite (1)"
+43,16,xenotime
+44,16,monazite
+45,16,"bismuth (1)"
+46,16,allanite
+47,16,loellingite
+48,16,marcasite
+49,17,malachite
+50,17,quartz
+51,18,quartz
+52,18,jarosite
+53,18,goethite
+54,18,hematite
+55,18,chlorite
+56,18,pyrrhotite
+57,21,pyrite
+58,21,arsenopyrite
+59,21,galena
+60,21,quartz
+61,21,garnet
+62,21,"magnetite (1)"
+63,22,"quartz monzonite"
+64,22,granite
+65,22,"granite pegmatite"
+66,22,gabbro
+67,22,peridotite
+68,23,gabbro
+69,23,augite
+70,23,hornblende
+71,23,cummingtonite
+72,23,quartz
+73,23,olivine
+74,23,garnet
+75,23,apatite
+76,23,diorite
+77,28,sphalerite
+78,28,ilmenite
+79,28,magnetite
+80,29,sphalerite
+81,30,sphalerite
+82,31,olivine
+83,31,magnetite
+84,31,pyrite
+85,31,sphalerite
+86,31,ilmenite
+87,39,sphalerite
+88,39,chalcopyrite
+89,40,marcasite
+90,40,pyrite
+91,40,calcite
+92,40,dolomite
+93,40,glauconite
+94,40,quartz
+95,41,pyrite
+96,41,monazite
+97,41,sericite
+98,41,"molybdenite (1)"
+99,41,"galena (1)"
+100,41,"ilmenite (1)"
+101,41,"rutile (1)"
+102,41,"geikielite (1)"
+103,42,dolomite
+104,42,calcite
+105,42,quartz
+106,42,barite
+107,43,dolomite
+108,43,quartz
+109,43,bitumen
+110,43,anhydrite
+111,43,gypsum
+112,43,"sphalerite (1)"
+113,43,"galena (1)"
+114,43,barite
+115,44,dolomite
+116,44,barite
+117,44,anhydrite
+118,44,quartz
+119,45,olivine
+120,45,bronzite
+121,45,pyroxene
+122,45,picotite
+123,45,chromite
+124,45,anthophyllite
+125,45,actinolite
+126,45,tremolite
+127,45,biotite
+128,45,albite
+129,46,calcite
+130,46,dolomite
+131,46,quartz
+132,46,siderite
+133,46,pitchblende
+134,47,calcite
+135,47,chlorite
+136,47,prehnite
+137,47,pumpellyite
+138,47,sphene
+139,47,albite
+140,49,chalcedony
+141,49,serpentine
+142,49,sepiolite
+143,49,chlorite
+144,50,diopside
+145,50,actinolite
+146,50,plogopite
+147,50,chlorite
+148,50,garnet
+149,50,epidote
+150,50,tremolite
+151,50,talc
+152,50,serpentine
+153,50,hematite
+154,51,limonite
+155,51,kaolinite
+156,51,quartz
+157,51,gibbsite
+158,51,magnetite
+159,51,chromite
+160,51,chlorite
+161,52,limonite
+162,52,kaolinite
+163,52,quartz
+164,52,gibbsite
+165,52,magnetite
+166,52,chromite
+167,52,chlorite
+168,53,limonite
+169,53,kaolinite
+170,53,quartz
+171,53,gibbsite
+172,53,magnetite
+173,53,chromite
+174,53,chlorite
+175,54,limonite
+176,54,kaolinite
+177,54,quartz
+178,54,gibbsite
+179,54,magnetite
+180,54,chromite
+181,54,chlorite
+182,55,limonite
+183,55,kaolinite
+184,55,quartz
+185,55,gibbsite
+186,55,magnetite
+187,55,chromite
+188,55,chlorite
+189,56,limonite
+190,56,kaolinite
+191,56,quartz
+192,56,gibbsite
+193,56,magnetite
+194,56,chromite
+195,56,chlorite
+196,57,limonite
+197,57,kaolinite
+198,57,quartz
+199,57,gibbsite
+200,57,magnetite
+201,57,chromite
+202,57,chlorite
+203,58,quartz
+204,58,calcite
+205,58,actinolite
+206,58,tremolite
+207,58,hornblende
+208,58,garnet
+209,58,"schistose rock"
+210,58,"zoisite (1)"
+211,58,"dolomite (1)"

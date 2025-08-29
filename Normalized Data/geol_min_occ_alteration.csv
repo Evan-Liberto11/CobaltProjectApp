@@ -1,0 +1,72 @@
+alteration_auto_id,geol_min_occ_id,alteration
+1,1,dolomitization
+2,1,hydrothermal
+3,2,dolomitization
+4,2,hydrothermal
+5,13,"chloritized (1)"
+6,15,silicification
+7,15,chloritization
+8,15,potassic
+9,16,silicification
+10,16,chloritization
+11,16,potassic
+12,18,oxidation
+13,18,silicified
+14,20,silicified
+15,20,oxidized
+16,22,"contact metamorphism"
+17,23,"contact metamorphism"
+18,24,serpentinization
+19,24,chloritization
+20,24,saussuritization
+21,24,"talc-carbonate alteration"
+22,24,serpentinization
+23,24,chloritization
+24,24,saussuritization
+25,24,"talc-carbonate alteration"
+26,25,serpentinization
+27,25,chloritization
+28,25,saussuritization
+29,25,"talc-carbonate alteration"
+30,25,serpentinization
+31,25,chloritization
+32,25,saussuritization
+33,25,"talc-carbonate alteration"
+34,26,serpentinization
+35,26,chloritization
+36,26,saussuritization
+37,26,"talc-carbonate alteration"
+38,28,saussuritization
+39,28,serpentinization
+40,29,saussuritization
+41,29,serpentization
+42,29,uralitization
+43,30,saussuritization
+44,30,serpentization
+45,30,uralitization
+46,30,sericitized
+47,31,serpentinization
+48,31,saussuritization
+49,31,uralitization
+50,41,potassic
+51,41,propylitic
+52,41,hematitic
+53,41,phyllic
+54,42,silicification
+55,43,silicification
+56,43,dolomitization
+57,44,silicification
+58,44,dolomitization
+59,45,serpentinization
+60,45,oxidation
+61,46,oxidized
+62,47,oxidized
+63,48,serpentinized
+64,49,saprolization
+65,51,laterization
+66,52,laterization
+67,53,laterization
+68,54,laterization
+69,55,laterization
+70,56,laterization
+71,57,laterization

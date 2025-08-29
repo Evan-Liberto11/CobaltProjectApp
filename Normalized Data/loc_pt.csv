@@ -1,0 +1,76 @@
+loc_pt_id,site_id,ftr_id,last_updt,ftr_group,ftr_type,pt_def,poly_def,state,county,loc_scale,loc_date,reference_id,loc_poly,remarks
+1,AK00012,Mo00550,6/7/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Approximate zone defined on image",AK,"Northwest Arctic","Large (>1:24,000)",2013,31,0,NULL
+2,AK00012,Mo00571,6/7/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Approximate zone defined on image",AK,"Northwest Arctic","Large (>1:24,000)",2013,31,0,NULL
+3,AK00017,Mr00061,6/21/2018,"Mineral Region","Mining District","Approximate center of polygon","Mining district boundary",AK,"Northwest Arctic","Small (<1:250,000)",2017,2,0,NULL
+4,AK00205,Mo00729,4/13/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Outline of sulfide-bearing body",AK,Hoonah-Argoon,"Large (>1:24,000)",1942,94,0,NULL
+5,AK00205,Mo00730,4/13/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Outline of sulfide-bearing body",AK,Hoonah-Argoon,"Large (>1:24,000)",1942,94,0,NULL
+6,AK00205,Mo00731,4/13/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Outline of sulfide-bearing body",AK,Hoonah-Argoon,"Large (>1:24,000)",1942,94,0,NULL
+7,AK00205,Mo00732,4/13/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Outline of sulfide-bearing body",AK,Hoonah-Argoon,"Large (>1:24,000)",1942,94,0,NULL
+8,AK00205,Mo00733,4/13/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Outline of sulfide-bearing body",AK,Hoonah-Argoon,"Large (>1:24,000)",1942,94,0,NULL
+9,AK00205,Mo00734,4/13/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Outline of sulfide-bearing body",AK,Hoonah-Argoon,"Large (>1:24,000)",1942,94,0,NULL
+10,AK00205,Mo00735,4/13/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Outline of sulfide-bearing body",AK,Hoonah-Argoon,"Large (>1:24,000)",1942,94,0,NULL
+11,AK00205,Mo00736,4/13/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Outline of sulfide-bearing body",AK,Hoonah-Argoon,"Large (>1:24,000)",1942,94,0,NULL
+12,AK00206,Mr00144,4/13/2018,"Mineral Region","Mining District","Approximate center of polygon","Mining district boundary",AK,"Hoonah-Argoon; Sitka",NULL,2006,1,0,NULL
+13,AK00207,Mo00737,4/16/2018,"Mineral Occurrence",Deposit,"Location 72",NULL,AK,Hoonah-Argoon,"Small (<1:250,000)",1971,71,0,NULL
+14,CA00070,Mo00761,4/23/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Outline of deposit",CA,"Del Norte","Large (>1:24,000)",1963,8,0,NULL
+15,CA00071,Mo00775,6/22/2018,"Mineral Occurrence",Deposit,"Point placed on the mine symbol from USA topo in relation to Figure 12 in USBM IC 8988",NULL,CA,"Del Norte","Medium (1:24,000-1:250,000)",2013,19,0,NULL
+16,ID00005,Mf00284,5/8/2018,"Mine Feature","Underground Workings","Location of Blackbird mine workings",NULL,ID,Lemhi,"Medium (1:24,000-1:250,000)",2007,12,0,"Also includes an open pit"
+17,ID00005,Mo00628,5/8/2018,"Mineral Occurrence",Deposit,"Location of Blackbird mine workings",NULL,ID,Lemhi,"Medium (1:24,000-1:250,000)",2007,12,0,NULL
+18,ID00050,Mo00716,4/3/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Current resource outline for the Ram deposit",ID,Lemhi,"Large (>1:24,000)",2017,43,0,"Poly_Def from page 54"
+19,ID00050,Mo00717,4/3/2018,"Mineral Occurrence",Deposit,"Point placed on Sunshine Deposit location",NULL,ID,Lemhi,"Large (>1:24,000)",2006,91,0,NULL
+20,ID00051,Mo00750,4/19/2018,"Mineral Occurrence",Prospect,"Approximate center of polygon","Ore Zone boundary",ID,Lemhi,"Large (>1:24,000)",2016,28,0,NULL
+21,ID00051,Mo00751,4/19/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Ore Zone boundary",ID,Lemhi,"Large (>1:24,000)",2016,28,0,NULL
+22,ID00051,Mo00752,4/19/2018,"Mineral Occurrence",Prospect,"Approximate center of polygon","Ore Zone boundary",ID,Lemhi,"Large (>1:24,000)",2016,28,0,NULL
+23,ID00051,Mo00753,4/19/2018,"Mineral Occurrence",Prospect,"Approximate center of polygon","Ore Zone boundary",ID,Lemhi,"Large (>1:24,000)",2016,28,0,NULL
+24,ID00052,Mo00738,4/16/2018,"Mineral Occurrence",Deposit,"Mineral Locality 158",NULL,ID,Lemhi,"Small (<1:250,000)",1998,56,0,NULL
+25,ID00054,Mr00145,4/16/2018,"Mineral Region","Mining District","Approximate center of polygon","Boundary of mining district",ID,Lemhi,"Small (<1:250,000)",1987,48,0,NULL
+26,ME00002,Mo00770,5/14/2018,"Mineral Occurrence",Deposit,"Point placed on Crawford pond from the location description on page 58 and Plate 20",NULL,ME,Knox,"Small (<1:250,000)",1956,54,0,NULL
+27,ME00003,Mo00771,5/14/2018,"Mineral Occurrence",Deposit,"Placed on area 5 deposit symbol from map on page 321",NULL,ME,Knox,"Medium (1:24,000-1:250,000)",1976,92,0,NULL
+28,MI00001,Mf00280,8/31/2017,"Mine Feature","Portal Mine","Mine portal location",NULL,MI,Marquette,"Large (>1:24,000)",2017,22,0,NULL
+29,MI00001,Mo00362,4/4/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Eagle deposit outline",MI,Marquette,"Large (>1:24,000)",2013,87,0,NULL
+30,MI00001,Mo00363,4/4/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Eagle East deposit outline",MI,Marquette,"Large (>1:24,000)",2013,87,0,NULL
+31,MN00002,Mo00746,4/16/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Outline of Northmet Deposit",MN,"St. Louis","Small (<1:250,000)",2012,NULL,0,NULL
+32,MN00003,Mo00719,4/10/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Mineral Deposit outline",MN,"St. Louis; Lake","Medium (1:24,000-1:250,000)",2014,4,0,NULL
+33,MN00003,Mo00720,4/10/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Mineral Deposit outline",MN,Lake,"Medium (1:24,000-1:250,000)",2014,4,0,NULL
+34,MN00003,Mo00721,4/10/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Mineral Deposit outline",MN,Lake,"Medium (1:24,000-1:250,000)",2014,4,0,NULL
+35,MN00003,Mo00722,4/10/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Mineral Deposit outline",MN,Lake,"Medium (1:24,000-1:250,000)",2014,4,0,NULL
+36,MN00003,Mo00747,4/16/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Outline of Mesaba Deposit",MN,"St. Louis","Small (<1:250,000)",2012,NULL,0,NULL
+37,MN00008,Mo00739,4/16/2018,"Mineral Occurrence",Prospect,"Approximate center of 164 zone",NULL,MN,Aitkin,"Medium (1:24,000-1:250,000)",2018,104,0,NULL
+38,MN00008,Mo00740,4/16/2018,"Mineral Occurrence",Deposit,"Approximate center of 138 Zone",NULL,MN,Aitkin,"Medium (1:24,000-1:250,000)",2018,104,0,NULL
+39,MN00008,Mo00741,4/16/2018,"Mineral Occurrence",Deposit,"Approximate center of SMSU Zone",NULL,MN,Aitkin,"Medium (1:24,000-1:250,000)",2018,104,0,NULL
+40,MN00008,Mo00742,4/16/2018,"Mineral Occurrence",Deposit,"Approximate center of MSU Zone",NULL,MN,Aitkin,"Medium (1:24,000-1:250,000)",2018,104,0,NULL
+41,MN00008,Mo00743,4/16/2018,"Mineral Occurrence",Prospect,"Approximate center of CGO Bend",NULL,MN,Aitkin,"Medium (1:24,000-1:250,000)",2018,104,0,NULL
+42,MN00008,Mo00744,4/16/2018,"Mineral Occurrence",Prospect,"Approximate center of 480 Zone drill holes",NULL,MN,Aitkin,"Medium (1:24,000-1:250,000)",2018,104,0,NULL
+43,MN00008,Mo00745,4/16/2018,"Mineral Occurrence",Prospect,"Approximate center of 221 Zone drill holes",NULL,MN,Aitkin,"Medium (1:24,000-1:250,000)",2018,104,0,NULL
+44,MO00001,Mr00036,5/10/2018,"Mineral Region","Mining District","Approximate center of polygon","Outline of mining district",MO,"Madison; Perry; Bollinger","Small (<1:250,000)",1989,5,0,NULL
+45,MO00002,Mo00774,6/21/2018,"Mineral Occurrence",Deposit,"Location of inactive mine",NULL,MO,Perry,"Small (<1:250,000)",1989,5,0,NULL
+46,MO00013,Mf00285,5/9/2018,"Mine Feature","Underground Workings","Superfund site location",NULL,MO,Madison,NULL,2018,38,0,NULL
+47,MO00013,Mo00559,5/9/2018,"Mineral Occurrence",Deposit,"Superfund site location",NULL,MO,Madison,NULL,2018,38,0,NULL
+48,MO00014,Mo00560,5/10/2018,"Mineral Occurrence",Deposit,"Location of iron deposit",NULL,MO,"Dent; Iron","Small (<1:250,000)",1967,59,0,NULL
+49,MT00002,Mo00754,4/19/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Current resource",MT,Meagher,"Large (>1:24,000)",2013,118,0,NULL
+50,MT00002,Mo00755,4/19/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Current resource",MT,Meagher,"Large (>1:24,000)",2013,118,0,NULL
+51,MT00002,Mo00756,4/19/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Current resource",MT,Meagher,"Large (>1:24,000)",2013,118,0,NULL
+52,MT00002,Mo00757,4/19/2018,"Mineral Occurrence",Prospect,"Approximate center of polygon","Exploration potential",MT,Meagher,"Large (>1:24,000)",2013,118,0,NULL
+53,MT00002,Mo00758,4/19/2018,"Mineral Occurrence",Prospect,"Approximate center of polygon","Exploration potential",MT,Meagher,"Large (>1:24,000)",2013,118,0,NULL
+54,MT00002,Mo00759,4/19/2018,"Mineral Occurrence",Prospect,"Approximate center of polygon","Exploration potential",MT,Meagher,"Large (>1:24,000)",2013,118,0,NULL
+55,MT00002,Mo00760,4/19/2018,"Mineral Occurrence",Prospect,"Approximate center of polygon","Exploration potential",MT,Meagher,"Large (>1:24,000)",2013,118,0,NULL
+56,MT00029,Mr00148,4/19/2018,"Mineral Region","Mining District","Approximate center of polygon","Outline of new district",MT,Meagher,"Small (<1:250,000)",1995,80,0,NULL
+57,NC00001,Mr00047,5/11/2018,"Mineral Region","Mining District","Deposit containing nickel",NULL,NC,Jackson,"Small (<1:250,000)",1968,108,0,"Adjusted to Esri USA Topo (2018)"
+58,NM00041,Mf00579,5/11/2018,"Mine Feature","Mine Shaft","Point placed on Black Hawk Mine Shaft located on Plate 14 of Gillerman and Whitebread (1956)","Georeferenced and digitized district map on Gillerman and Whitebread (1956)",NM,Grant,"Medium (1:24,000-1:250,000)",1956,46,0,NULL
+59,NM00041,Mo00773,5/18/2018,"Mineral Occurrence",Deposit,"Point placed on Black Hawk Mine Shaft located on Plate 14 of Gillerman and Whitebread (1956)","Georeferenced and digitized Black Hawk district map on Gillerman and Whitebread (1956)",NM,Grant,"Medium (1:24,000-1:250,000)",1956,46,0,NULL
+60,NM00042,Mr00154,5/11/2018,"Mineral Region","Mining District","Approximate center of polygon","Mining district outline",NM,Grant,"Small (<1:250,000)",2017,77,0,NULL
+61,OR00001,Mo00748,4/17/2018,"Mineral Occurrence",Deposit,"Approximate center of polygons","Outline of massive sulfides",OR,Josephine,"Large (>1:24,000)",1987,62,0,NULL
+62,OR00002,Mo00561,5/10/2018,"Mineral Occurrence",Deposit,"Approximate center of nickel bearing laterites",NULL,OR,Josephine,"Large (>1:24,000)",1978,55,0,NULL
+63,OR00002,Mr00155,6/21/2018,"Mineral Region",Deposit,"Approximate center of polygon","Outline of District from fig 13",OR,Josephine,"Large (>1:24,000)",1978,55,0,NULL
+64,OR00005,Mf00577,4/26/2018,"Mine Feature","Open Pit Mine","Center of open pit",NULL,OR,Douglas,"Large (>1:24,000)",1942,90,0,"Adjusted to Esri World Imagery (2018)"
+65,OR00005,Mo00767,4/26/2018,"Mineral Occurrence",Deposit,"Polygon centroid","Outline of Proved and Probable ore bodies, and Possible ore",OR,Douglas,"Large (>1:24,000)",1942,90,0,NULL
+66,PA00001,Mf00574,4/18/2018,"Mine Feature","Open Pit Mine","Approximate center of ore",NULL,PA,Lebanon,"Large (>1:24,000)",1933,52,0,"Mine also has underground workings"
+67,PA00001,Mo00749,4/18/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Ore boundary",PA,Lebanon,"Large (>1:24,000)",1933,52,0,"East and West ore bodies"
+68,PR00001,Mo00629,7/17/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Approximate outline of Guanajibo Deposit",PR,"Cabo Rojo","Medium (1:24,000-1:250,000)",1959,51,0,NULL
+69,PR00002,Mo00630,7/17/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Approximate outline of Punta Guanajibo Deposit",PR,"Cabo Rojo","Medium (1:24,000-1:250,000)",1959,51,0,NULL
+70,PR00003,Mo00631,7/17/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Approximate outline of Rosario North Deposit",PR,Mayaguez,"Medium (1:24,000-1:250,000)",1959,51,0,NULL
+71,PR00004,Mo00632,7/17/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Approximate outline of Rosario North Deposit",PR,"Maricao; San German","Medium (1:24,000-1:250,000)",1959,51,0,NULL
+72,PR00004,Mo00633,7/17/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Approximate outline of Rosario South Deposit",PR,"Maricao; San German","Medium (1:24,000-1:250,000)",1959,51,0,NULL
+73,PR00005,Mo00634,7/17/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Approximate outline of Maricao West Deposit",PR,"Maricao; San German","Medium (1:24,000-1:250,000)",1959,51,0,NULL
+74,PR00005,Mo00635,7/17/2018,"Mineral Occurrence",Deposit,"Approximate center of polygon","Approximate outline of Maricao East Deposit",PR,"Maricao; San German","Medium (1:24,000-1:250,000)",1959,51,0,NULL
+75,TN00001,Mr00037,5/11/2018,"Mineral Region","Mining District","Approximate center of polygon","Outline of Tennessee area from plate 1; May not be the actual district boundary",TN,Polk,"Medium (1:24,000-1:250,000)",1926,36,0,NULL

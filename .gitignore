@@ -1,0 +1,35 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore bin/ directory (compiled output)
+CobaltProjectApp/bin/
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.iml
+
+# Ignore dependency JARs (use Maven/Gradle instead)
+CobaltProjectApp/lib/
+*.jar
+
+# Ignore OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore database config (use db.properties.example instead)
+CobaltProjectApp/src/db.properties
+CobaltProjectApp/bin/db.properties
+
+# Ignore temporary/backup files
+*~
+*.tmp
+*.swp
+
+# Optional: if CSV datasets are huge, ignore them
+# Uncomment if you don’t want to track raw/normalized data
+# Normalized Data/
+# USGS_Cobalt_US_CSV/

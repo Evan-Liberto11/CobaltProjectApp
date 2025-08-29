@@ -1,0 +1,148 @@
+host_litho_auto_id,geol_min_occ_id,host_litho
+1,1,marble
+2,1,"argillaceous marble"
+3,1,dolostone
+4,1,phyllite
+5,1,"phyllitic marble"
+6,2,marble
+7,2,"argillaceous marble"
+8,2,dolostone
+9,2,phyllite
+10,2,"phyllitic marble"
+11,2,quartzite
+12,3,norite
+13,4,norite
+14,5,norite
+15,6,norite
+16,7,norite
+17,8,norite
+18,9,norite
+19,10,norite
+20,11,gabbro
+21,11,peridotite
+22,12,peridotite
+23,12,laterites
+24,13,slate
+25,13,phyllite
+26,13,limestone
+27,13,andesite
+28,14,siltite
+29,14,phyllite
+30,14,argillite
+31,15,"phyllite (1)"
+32,16,"phyllite (1)"
+33,17,"siltite (1)"
+34,17,phyllite
+35,18,"siltite (1)"
+36,18,argillite
+37,19,siltite
+38,20,"siltite (1)"
+39,20,argillite
+40,21,"quartz-biotite schist"
+41,22,schist
+42,22,quartz
+43,22,biotite
+44,22,sillimanite
+45,22,muscovite
+46,22,gneissic
+47,23,schist
+48,23,quartz
+49,23,biotite
+50,23,sillimanite
+51,23,muscovite
+52,23,gneissic
+53,24,peridotite
+54,24,peridotite
+55,25,peridotite
+56,25,peridotite
+57,26,peridotite
+58,27,"troctolitic anorthosite"
+59,27,"anorthositic troctolite"
+60,27,troctolite
+61,27,"augite troctolite"
+62,28,troctolite
+63,28,gabbro
+64,28,anorthosite
+65,29,troctolite
+66,29,"augite troctolite"
+67,29,melatroctolite
+68,29,"olivine gabbro"
+69,29,"anorthositic gabbro"
+70,29,norite
+71,29,gabbronorite
+72,30,troctolite
+73,30,"augite troctolite"
+74,30,melatroctolite
+75,30,"olivine gabbro"
+76,30,"anorthositic gabbro"
+77,30,norite
+78,30,gabbronorite
+79,31,troctolite
+80,32,gabbro
+81,32,"magmatic breccia"
+82,32,peridotite
+83,33,peridotite
+84,33,"feldspathic peridotite"
+85,34,"feldspathic peridotite"
+86,35,metasediments
+87,35,peridotite
+88,36,"feldspathic peridotite"
+89,36,peridotite
+90,37,peridotite
+91,38,peridotite
+92,39,dolomite
+93,39,sandstone
+94,39,shale
+95,40,dolomite
+96,41,syenite
+97,41,"rhyolite (1)"
+98,42,shale
+99,43,shale
+100,43,conglomerate
+101,44,shale
+102,44,conglomerate
+103,45,dunite
+104,45,laterite
+105,46,"quartz diorite gneiss"
+106,47,basalt
+107,48,peridotite
+108,48,laterite
+109,48,harzburgite
+110,49,saprolite
+111,49,"saprolized peridotite"
+112,50,limestone
+113,50,dolomite
+114,50,diabase
+115,51,"serpentinized peridotite"
+116,51,siltstone
+117,51,sandstone
+118,51,limestone
+119,52,"serpentinized peridotite"
+120,52,siltstone
+121,52,sandstone
+122,52,limestone
+123,53,"serpentinized peridotite"
+124,53,siltstone
+125,53,sandstone
+126,53,limestone
+127,54,"serpentinized peridotite"
+128,54,siltstone
+129,54,sandstone
+130,54,limestone
+131,55,"serpentinized peridotite"
+132,55,siltstone
+133,55,sandstone
+134,55,limestone
+135,56,"serpentinized peridotite"
+136,56,siltstone
+137,56,sandstone
+138,56,limestone
+139,57,"serpentinized peridotite"
+140,57,siltstone
+141,57,sandstone
+142,57,limestone
+143,58,graywacke
+144,58,"graywacke conglomerate"
+145,58,"mica schist"
+146,58,"chlorite-garnet schist"
+147,58,"staurolite schist"

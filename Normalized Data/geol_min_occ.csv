@@ -1,0 +1,59 @@
+geol_min_occ_id,site_id,ftr_id,last_updt,ftr_type,reference_id,remarks
+1,AK00012,Mo00550,6/7/2018,Deposit,30,"(1) Trilogy Metals Inc. (2018)"
+2,AK00012,Mo00571,6/7/2018,Deposit,30,"(1) Trilogy Metals Inc. (2018)"
+3,AK00205,Mo00729,4/16/2018,Deposit,94,NULL
+4,AK00205,Mo00730,4/16/2018,Deposit,94,NULL
+5,AK00205,Mo00731,4/16/2018,Deposit,94,NULL
+6,AK00205,Mo00732,4/16/2018,Deposit,94,NULL
+7,AK00205,Mo00733,4/16/2018,Deposit,94,NULL
+8,AK00205,Mo00734,4/16/2018,Deposit,94,NULL
+9,AK00205,Mo00735,4/16/2018,Deposit,94,NULL
+10,AK00205,Mo00736,4/16/2018,Deposit,94,NULL
+11,AK00207,Mo00737,4/16/2018,Deposit,25,NULL
+12,CA00070,Mo00761,4/23/2018,Deposit,8,NULL
+13,CA00071,Mo00775,6/22/2018,Deposit,NULL,"(1) Cater and Wells (1953)"
+14,ID00005,Mo00628,5/8/2018,Deposit,13,"(1) Aleinikoff and others (2012)"
+15,ID00050,Mo00716,5/8/2018,Deposit,43,"(1) Bookstrom and others (2016); (2) Aleinikoff and others (2012)"
+16,ID00050,Mo00717,5/8/2018,Deposit,43,"(1) Bookstrom and others (2016); (2) Aleinikoff and others (2012)"
+17,ID00051,Mo00750,5/8/2018,Prospect,28,"(1) Bookstrom and others (2016); (2) Aleinikoff and others (2012)"
+18,ID00051,Mo00751,5/8/2018,Deposit,28,"(1) Bookstrom and others (2016); (2) Aleinikoff and others (2012)"
+19,ID00051,Mo00752,5/8/2018,Prospect,28,"(1) Bookstrom and others (2016); (2) Aleinikoff and others (2012)"
+20,ID00051,Mo00753,5/8/2018,Prospect,28,"(1) Bookstrom and others (2016); (2) Aleinikoff and others (2012)"
+21,ID00052,Mo00738,4/16/2018,Deposit,56,"(1) Nold (1990)"
+22,ME00002,Mo00770,5/11/2018,Deposit,92,NULL
+23,ME00003,Mo00771,5/11/2018,Deposit,92,NULL
+24,MI00001,Mo00362,4/4/2018,Deposit,22,"(1) Ding and others (2010)"
+25,MI00001,Mo00362,4/4/2018,Deposit,22,"(1) Ding and others (2010)"
+26,MI00001,Mo00363,4/4/2018,Deposit,22,"(1) Ding and others (2010)"
+27,MN00002,Mo00746,4/16/2018,Deposit,11,NULL
+28,MN00003,Mo00719,4/13/2018,Deposit,4,NULL
+29,MN00003,Mo00720,4/13/2018,Deposit,4,NULL
+30,MN00003,Mo00721,4/13/2018,Deposit,4,NULL
+31,MN00003,Mo00722,4/13/2018,Deposit,4,NULL
+32,MN00008,Mo00739,4/16/2018,Prospect,42,NULL
+33,MN00008,Mo00740,4/16/2018,Deposit,42,NULL
+34,MN00008,Mo00741,4/16/2018,Deposit,42,NULL
+35,MN00008,Mo00742,4/16/2018,Deposit,42,NULL
+36,MN00008,Mo00743,4/16/2018,Prospect,42,NULL
+37,MN00008,Mo00744,4/16/2018,Prospect,42,NULL
+38,MN00008,Mo00745,4/16/2018,Prospect,42,NULL
+39,MO00002,Mo00774,6/21/2018,Deposit,61,NULL
+40,MO00013,Mo00559,5/10/2018,Deposit,18,NULL
+41,MO00014,Mo00560,5/10/2018,Deposit,84,"(1) Smith (1968)"
+42,MT00002,Mo00754,5/8/2018,Deposit,47,"(1) Winckers and others (2013)"
+43,MT00002,Mo00755,5/8/2018,Deposit,47,"(1) Winckers and others (2013)"
+44,MT00002,Mo00756,5/8/2018,Deposit,47,"(1) Winckers and others (2013)"
+45,NC00001,Mr00047,5/14/2018,"Mining District",96,"(1) U.S. Geological Survey and U.S. Bureau of Mines (1968)"
+46,NM00041,Mo00773,5/11/2018,Deposit,46,"(1) McLemore (1996)"
+47,OR00001,Mo00748,4/18/2018,Deposit,73,NULL
+48,OR00002,Mo00561,5/10/2018,Deposit,93,NULL
+49,OR00005,Mo00767,4/27/2018,Deposit,29,NULL
+50,PA00001,Mo00749,4/18/2018,Deposit,95,"(1) Fanale and Kulp (1962)"
+51,PR00001,Mo00629,7/17/2018,Deposit,51,NULL
+52,PR00002,Mo00630,7/17/2018,Deposit,51,NULL
+53,PR00003,Mo00631,7/17/2018,Deposit,51,NULL
+54,PR00004,Mo00632,7/17/2018,Deposit,51,NULL
+55,PR00004,Mo00633,7/17/2018,Deposit,51,NULL
+56,PR00005,Mo00634,7/17/2018,Deposit,51,NULL
+57,PR00005,Mo00635,7/17/2018,Deposit,51,NULL
+58,TN00001,Mr00037,5/11/2018,"Mining District",72,"(1) U.S. Geological Survey and U.S. Bureau of Mines (1968)"

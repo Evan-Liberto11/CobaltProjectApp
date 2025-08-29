@@ -1,0 +1,293 @@
+resource_id,site_id,ftr_id,material,rsrc_date,mat_type,mat_amnt,mat_units,grade,grade_unit,contained,cont_units,rsrc_class,rsrc_descr,rsrc_code,ref_detail,reference_id,remarks
+1,AK00012,Mo00550,cobalt,2018,ore,124600000.000000,tonnes,0.017000,percent,45000000.000000,pounds,Inferred,Resource,CIM,"Page 2, Table 1",107,NULL
+2,AK00012,Mo00550,copper,2016,ore,40500000.000000,tonnes,1.020000,percent,913000000.000000,pounds,Indicated,Resource,CIM,"Page 2, Table 2",107,NULL
+3,AK00012,Mo00550,copper,2016,ore,84100000.000000,tonnes,0.950000,percent,1768000000.000000,pounds,Inferred,Resource,CIM,"Page 2, Table 2",107,NULL
+4,AK00012,Mo00571,cobalt,2018,ore,-57800000.000000,tonnes,0.025000,percent,32000000.000000,pounds,Inferred,Resource,CIM,"Page 2, Table 1",107,NULL
+5,AK00012,Mo00571,copper,1961,ore,21230000.000000,tons,3.040000,percent,645000.111000,tons,NULL,Resource,NULL,"Page 6-5, Table 6.2",31,NULL
+6,AK00012,Mo00571,copper,2016,ore,-57800000.000000,tonnes,2.890000,percent,3683000000.000000,pounds,Inferred,Resource,CIM,"Page 2, Table 2",107,NULL
+7,AK00205,-1111,nickel,1990,ore,-20000000.000000,tonnes,0.510000,percent,102000.111000,tonnes,NULL,Reserve,NULL,"Page 61",20,NULL
+8,AK00205,-1111,copper,1990,ore,-20000000.000000,tonnes,0.270000,percent,54000.111000,tonnes,NULL,Reserve,NULL,"Page 61",20,NULL
+9,AK00205,-1111,cobalt,1990,ore,-20000000.000000,tonnes,0.020000,percent,4000.111000,tonnes,NULL,Reserve,NULL,"Page 61",20,NULL
+10,AK00205,Mo00729,nickel,1942,ore,-908000.000000,tons,0.320000,percent,2906.000000,"short tons",NULL,Unclassified,NULL,"Page 129",94,NULL
+11,AK00205,Mo00729,copper,1942,ore,-908000.000000,tons,0.260000,percent,2361.000000,"short tons",NULL,Unclassified,NULL,"Page 129",94,NULL
+12,AK00205,Mo00730,copper,1942,ore,-109000.000000,tons,0.330000,percent,360.000000,"short tons",NULL,Unclassified,NULL,"Page 129",94,NULL
+13,AK00205,Mo00730,nickel,1942,ore,-109000.000000,tons,0.440000,percent,480.000000,"short tons",NULL,Unclassified,NULL,"Page 129",94,NULL
+14,AK00205,Mo00731,nickel,1942,ore,-1386000.000000,tons,0.520000,percent,7207.000000,"short tons",NULL,Unclassified,NULL,"Page 129",94,NULL
+15,AK00205,Mo00731,copper,1942,ore,-1386000.000000,tons,0.300000,percent,4158.000000,"short tons",NULL,Unclassified,NULL,"Page 129",94,NULL
+16,AK00205,Mo00732,copper,1942,ore,-166000.000000,tons,0.210000,percent,349.000000,"short tons",NULL,Unclassified,NULL,"Page 129",94,NULL
+17,AK00205,Mo00732,nickel,1942,ore,-166000.000000,tons,0.260000,percent,432.000000,"short tons",NULL,Unclassified,NULL,"Page 129",94,NULL
+18,AK00205,Mo00733,nickel,1942,ore,-110000.000000,tons,0.390000,percent,429.000000,"short tons",NULL,Unclassified,NULL,"Page 129",94,NULL
+19,AK00205,Mo00733,copper,1942,ore,-110000.000000,tons,0.350000,percent,385.000000,"short tons",NULL,Unclassified,NULL,"Page 129",94,NULL
+20,AK00205,Mo00734,copper,1942,ore,-766000.000000,tons,0.250000,percent,1915.000000,"short tons",NULL,Unclassified,NULL,"Page 129",94,NULL
+21,AK00205,Mo00734,nickel,1942,ore,-766000.000000,tons,0.230000,percent,1762.000000,"short tons",NULL,Unclassified,NULL,"Page 129",94,NULL
+22,AK00205,Mo00735,copper,1942,ore,-91000.000000,tons,0.290000,percent,264.000000,"short tons",NULL,Unclassified,NULL,"Page 129",94,NULL
+23,AK00205,Mo00735,nickel,1942,ore,-91000.000000,tons,0.320000,percent,291.000000,"short tons",NULL,Unclassified,NULL,"Page 129",94,NULL
+24,AK00205,Mo00736,nickel,1942,ore,-2317000.000000,tons,0.310000,percent,7183.000000,"short tons",NULL,Unclassified,NULL,"Page 129",94,NULL
+25,AK00205,Mo00736,copper,1942,ore,-2317000.000000,tons,0.250000,percent,5793.000000,"short tons",NULL,Unclassified,NULL,"Page 129",94,NULL
+26,AK00207,Mo00737,copper,1995,ore,-91000000.000000,tonnes,0.300000,percent,273000.111000,tonnes,Proven,Reserve,NULL,"Page 60",20,NULL
+27,AK00207,Mo00737,nickel,1995,ore,-91000000.000000,tonnes,0.500000,percent,455000.111000,tonnes,Proven,Reserve,NULL,"Page 60",20,NULL
+28,AK00207,Mo00737,cobalt,1995,ore,-91000000.000000,tonnes,0.030000,percent,27300.111000,tonnes,Proven,Reserve,NULL,"Page 60",20,NULL
+29,CA00070,Mo00761,nickel,1986,ore,-19232000.000000,tons,0.780000,percent,150010.111000,tons,Probable,Reserve,NULL,"Page 103",85,"Additional 5500000 tons inferred resource"
+30,CA00070,Mo00761,cobalt,1986,ore,-19232000.000000,tons,0.062000,percent,11924.111000,tons,Probable,Reserve,NULL,"Page 103",85,"Additional 5500000 tons inferred resource"
+31,CA00071,Mo00775,chromium,1985,ore,-16000000.000000,tons,2.000000,percent,320000.111000,tons,Proven,"Ore Reserve",NULL,"Page 171",110,NULL
+32,CA00071,Mo00775,nickel,1985,ore,-16000000.000000,tons,0.750000,percent,120000.111000,tons,Proven,"Ore Reserve",NULL,"Page 171",110,NULL
+33,CA00071,Mo00775,cobalt,1985,ore,-16000000.000000,tons,0.070000,percent,11000.111000,tons,Proven,"Ore Reserve",NULL,"Page 171",110,NULL
+34,ID00005,Mo00628,cobalt,1977,ore,-6500000.000000,tons,0.550000,percent,36000.111000,tons,NULL,Reserve,NULL,"Page 190",56,"Based on Bennett (1977)"
+35,ID00005,Mo00628,copper,1977,ore,-6500000.000000,tons,1.310000,percent,85000.111000,tons,NULL,Reserve,NULL,"Page 190",56,"Based on Bennett (1977)"
+36,ID00050,-1111,gold,1998,ore,-2250400.000000,tons,0.014000,"ounces per ton",32000.111000,ounces,Inferred,"Mineral Resource",NULL,"Page 38, Table 6.1",43,NULL
+37,ID00050,-1111,copper,1998,ore,-2250400.000000,tons,0.618000,percent,13900.111000,tons,Inferred,"Mineral Resource",NULL,"Page 38, Table 6.1",43,NULL
+38,ID00050,-1111,cobalt,1998,ore,-2250400.000000,tons,0.459000,percent,10300.111000,tons,Inferred,"Mineral Resource",NULL,"Page 38, Table 6.1",43,NULL
+39,ID00050,-1111,cobalt,1998,ore,-1116941.000000,tons,0.592000,percent,6610.111000,tons,"Measured plus Indicated","Mineral Resource",NULL,"Page 38, Table 6.1",43,NULL
+40,ID00050,-1111,copper,1998,ore,-1116941.000000,tons,0.657000,percent,7340.111000,tons,"Measured plus Indicated","Mineral Resource",NULL,"Page 38, Table 6.1",43,NULL
+41,ID00050,-1111,gold,1998,ore,-1116941.000000,tons,0.016000,"ounces per ton",18000.111000,ounces,"Measured plus Indicated","Mineral Resource",NULL,"Page 38, Table 6.1",43,NULL
+42,ID00050,Mo00716,gold,2017,ore,-3662000.000000,tons,0.015000,"ounces per ton",53286.000000,ounces,"Proven plus Probable","Mineral Reserve",CIM,"Page 127, Table 15.2",43,NULL
+43,ID00050,Mo00716,gold,2017,ore,-3436000.000000,tons,0.016000,"ounces per ton",54200.000000,ounces,"Measured plus Indicated","Mineral Resource",CIM,"Page 121, Table 14.11",43,NULL
+44,ID00050,Mo00716,copper,2017,ore,-1543000.000000,tons,0.680000,percent,21032.000000,pounds,Inferred,"Mineral Resource",CIM,"Page 121, Table 14.11",43,NULL
+45,ID00050,Mo00716,cobalt,2017,ore,-1543000.000000,tons,0.510000,percent,15594.000000,pounds,Inferred,"Mineral Resource",CIM,"Page 121, Table 14.11",43,NULL
+46,ID00050,Mo00716,cobalt,2017,ore,-3662000.000000,tons,0.470000,percent,34517000.000000,pounds,"Proven plus Probable","Mineral Reserve",CIM,"Page 127, Table 15.2",43,NULL
+47,ID00050,Mo00716,cobalt,2017,ore,-3436000.000000,tons,0.590000,percent,40578.000000,pounds,"Measured plus Indicated","Mineral Resource",CIM,"Page 121, Table 14.11",43,NULL
+48,ID00050,Mo00716,gold,2017,ore,-1543000.000000,tons,0.012000,"ounces per ton",18700.000000,ounces,Inferred,"Mineral Resource",CIM,"Page 121, Table 14.11",43,NULL
+49,ID00050,Mo00716,copper,2017,ore,-3662000.000000,tons,0.680000,percent,49756000.000000,pounds,"Proven plus Probable","Mineral Reserve",CIM,"Page 127, Table 15.2",43,NULL
+50,ID00050,Mo00716,copper,2017,ore,-3436000.000000,tons,0.730000,percent,50436.000000,pounds,"Measured plus Indicated","Mineral Resource",CIM,"Page 121, Table 14.11",43,NULL
+51,ID00050,Mo00717,cobalt,2006,ore,-260700.000000,tons,0.604000,percent,1570.111000,tons,"Measured plus Indicated",Resource,NULL,"Page 40, Table 6.4",43,NULL
+52,ID00050,Mo00717,gold,2006,ore,-260700.000000,tons,0.013000,"ounces per ton",3400.111000,ounces,"Measured plus Indicated",Resource,NULL,"Page 40, Table 6.4",43,NULL
+53,ID00050,Mo00717,copper,2006,ore,-260700.000000,tons,0.327000,percent,852.111000,tons,"Measured plus Indicated",Resource,NULL,"Page 40, Table 6.4",43,NULL
+54,ID00051,Mo00751,copper,1983,ore,-1000000.000000,tons,0.300000,percent,3000.111000,tons,NULL,Reserve,NULL,"Page 16, Table 2",28,NULL
+55,ID00051,Mo00751,cobalt,1983,ore,-1000000.000000,tons,0.610000,percent,6100.111000,tons,NULL,Reserve,NULL,"Page 16, Table 2",28,NULL
+56,ID00051,Mo00751,cobalt,1972,ore,-32100000.000000,tons,0.170000,percent,54600.111000,tons,NULL,Reserve,NULL,"Page 16, Table 2",28,NULL
+57,ID00051,Mo00751,copper,1972,ore,-32100000.000000,tons,1.050000,percent,337000.111000,tons,NULL,Reserve,NULL,"Page 16, Table 2",28,NULL
+58,ID00052,Mo00738,copper,1979,ore,-1270000.000000,tons,1.300000,percent,16500.111000,tons,Probable,"Geologic Resource",NULL,"Page 121",56,"Resource from Behre Dolbear and Co (1979)"
+59,ID00052,Mo00738,cobalt,1979,ore,-1270000.000000,tons,0.200000,percent,2540.111000,tons,Probable,"Geologic Resource",NULL,"Page 121",56,"Resource from Behre Dolbear and Co (1979)"
+60,ID00052,Mo00738,silver,1979,ore,-1270000.000000,tons,0.300000,"ounces per ton",381000.111000,ounces,Probable,"Geologic Resource",NULL,"Page 121",56,"Resource from Behre Dolbear and Co (1979)"
+61,ID00052,Mo00738,gold,1979,ore,-1270000.000000,tons,0.015000,"ounces per ton",19000.111000,ounces,Probable,"Geologic Resource",NULL,"Page 121",56,"Resource from Behre Dolbear and Co (1979)"
+62,ME00002,Mo00770,nickel,1984,ore,-9000000.000000,"metric tons",0.910000,percent,82000.111000,"metric tons",Probable,"In Situ Resource",NULL,"Pages 8-10",19,NULL
+63,ME00002,Mo00770,copper,1984,ore,-9000000.000000,"metric tons",0.450000,percent,41000.111000,"metric tons",Probable,"In Situ Resource",NULL,"Pages 8-10",19,NULL
+64,ME00002,Mo00770,cobalt,1984,ore,-9000000.000000,"metric tons",0.040000,percent,3600.111000,"metric tons",Probable,"In Situ Resource",NULL,"Pages 8-10",19,NULL
+65,ME00003,Mo00771,copper,1992,ore,-2982800.000000,"metric tons",0.690000,percent,20580.111000,"metric tons",Indicated,"Drill-Indicated Resource",NULL,"Page 46",45,"Reserve estimates audited by Roscoe Postle Associates Inc."
+66,ME00003,Mo00771,cobalt,1992,ore,-2982800.000000,"metric tons",0.120000,percent,3580.111000,"metric tons",Probable,"Drill-Indicated Resource",NULL,"Page 46",45,"Reserve estimates audited by Roscoe Postle Associates Inc."
+67,ME00003,Mo00771,nickel,1992,ore,-2982800.000000,"metric tons",1.490000,percent,44400.111000,"metric tons",Indicated,"Drill-Indicated Resource",NULL,"Page 46",45,"Reserve estimates audited by Roscoe Postle Associates Inc."
+68,MI00001,Mo00362,nickel,2017,ore,-1235000.000000,tonnes,3.000000,percent,37000.000000,tonnes,Proven,"Mineral Reserve",NULL,"Mineral Reserves Table",70,NULL
+69,MI00001,Mo00362,palladium,2016,ore,-1129000.000000,tonnes,0.500000,"grams per tonne",20000.000000,ounces,Proven,"Mineral Reserve",CIM,"Page 15-2, Table 15-1",22,NULL
+70,MI00001,Mo00362,cobalt,2017,ore,-1748000.000000,tonnes,0.100000,percent,1000.000000,tonnes,Indicated,"Mineral Resource",NULL,"Mineral Resources Table",70,NULL
+71,MI00001,Mo00362,copper,2017,ore,-77000.000000,tonnes,0.900000,percent,1000.000000,tonnes,Inferred,"Mineral Resource",NULL,"Mineral Resources Table",70,NULL
+72,MI00001,Mo00362,cobalt,2017,ore,-1408000.000000,tonnes,0.100000,percent,1000.000000,tonnes,Measured,"Mineral Resource",NULL,"Mineral Resources Table",70,NULL
+73,MI00001,Mo00362,platinum,2016,ore,-2146000.000000,tonnes,0.500000,"grams per tonne",30000.000000,ounces,Indicated,"Mineral Resource",CIM,"Page 14-2, Table 14-1",22,NULL
+74,MI00001,Mo00362,nickel,2017,ore,-1408000.000000,tonnes,3.400000,percent,48000.000000,tonnes,Measured,"Mineral Resource",NULL,"Mineral Resources Table",70,NULL
+75,MI00001,Mo00362,copper,2017,ore,-1748000.000000,tonnes,2.200000,percent,38000.000000,tonnes,Indicated,"Mineral Resource",NULL,"Mineral Resources Table",70,NULL
+76,MI00001,Mo00362,cobalt,2017,ore,-1235000.000000,tonnes,0.100000,percent,1000.000000,tonnes,Proven,"Mineral Reserve",NULL,"Mineral Reserves Table",70,NULL
+77,MI00001,Mo00362,nickel,2017,ore,-77000.000000,tonnes,1.000000,percent,1000.000000,tonnes,Inferred,"Mineral Resource",NULL,"Mineral Resources Table",70,NULL
+78,MI00001,Mo00362,gold,2017,ore,-1235000.000000,tonnes,0.300000,"grams per tonne",370000.111000,grams,Proven,"Mineral Reserve",NULL,"Mineral Reserves Table",70,NULL
+79,MI00001,Mo00362,palladium,2016,ore,-44000.000000,tonnes,0.200000,"grams per tonne",8800.111000,grams,Inferred,"Mineral Resource",CIM,"Page 14-2, Table 14-1",22,NULL
+80,MI00001,Mo00362,platinum,2016,ore,-44000.000000,tonnes,0.300000,"grams per tonne",13000.111000,grams,Inferred,"Mineral Resource",CIM,"Page 14-2, Table 14-1",22,NULL
+81,MI00001,Mo00362,platinum,2016,ore,-1198000.000000,tonnes,0.900000,"grams per tonne",30000.000000,ounces,Measured,"Mineral Resource",CIM,"Page 14-2, Table 14-1",22,NULL
+82,MI00001,Mo00362,palladium,2016,ore,-2148000.000000,tonnes,0.200000,"grams per tonne",20000.000000,ounces,Probable,"Mineral Reserve",CIM,"Page 15-2, Table 15-1",22,NULL
+83,MI00001,Mo00362,gold,2017,ore,-1955000.000000,tonnes,0.200000,"grams per tonne",390000.111000,grams,Probable,"Mineral Reserve",NULL,"Mineral Reserves Table",70,NULL
+84,MI00001,Mo00362,palladium,2016,ore,-1198000.000000,tonnes,0.600000,"grams per tonne",20000.000000,ounces,Measured,"Mineral Resource",CIM,"Page 14-2, Table 14-1",22,NULL
+85,MI00001,Mo00362,nickel,2017,ore,-1955000.000000,tonnes,1.800000,percent,36000.000000,tonnes,Probable,"Mineral Reserve",NULL,"Mineral Reserves Table",70,NULL
+86,MI00001,Mo00362,nickel,2017,ore,-1748000.000000,tonnes,2.400000,percent,43000.000000,tonnes,Indicated,"Mineral Resource",NULL,"Mineral Resources Table",70,NULL
+87,MI00001,Mo00362,gold,2017,ore,-1748000.000000,tonnes,0.200000,"grams per tonne",350000.111000,grams,Indicated,"Mineral Resource",NULL,"Mineral Resources Table",70,NULL
+88,MI00001,Mo00362,gold,2017,ore,-77000.000000,tonnes,0.100000,"grams per tonne",7700.111000,grams,Inferred,"Mineral Resource",NULL,"Mineral Resources Table",70,NULL
+89,MI00001,Mo00362,platinum,2016,ore,-2148000.000000,tonnes,0.400000,"grams per tonne",30000.000000,ounces,Probable,"Mineral Reserve",CIM,"Page 15-2, Table 15-1",22,NULL
+90,MI00001,Mo00362,gold,2017,ore,-1408000.000000,tonnes,0.300000,"grams per tonne",420000.111000,grams,Measured,"Mineral Resource",NULL,"Mineral Resources Table",70,NULL
+91,MI00001,Mo00362,copper,2017,ore,-1235000.000000,tonnes,2.500000,percent,31000.000000,tonnes,Proven,"Mineral Reserve",NULL,"Mineral Reserves Table",70,NULL
+92,MI00001,Mo00362,copper,2017,ore,-1955000.000000,tonnes,1.700000,percent,33000.000000,tonnes,Probable,"Mineral Reserve",NULL,"Mineral Reserves Table",70,NULL
+93,MI00001,Mo00362,palladium,2016,ore,-2146000.000000,tonnes,0.300000,"grams per tonne",20000.000000,ounces,Indicated,"Mineral Resource",CIM,"Page 14-2, Table 14-1",22,NULL
+94,MI00001,Mo00362,copper,2017,ore,-1408000.000000,tonnes,2.800000,percent,40000.000000,tonnes,Measured,"Mineral Resource",NULL,"Mineral Resources Table",70,NULL
+95,MI00001,Mo00362,cobalt,2017,ore,-1955000.000000,tonnes,0.100000,percent,1000.000000,tonnes,Probable,"Mineral Reserve",NULL,"Mineral Reserves Table",70,NULL
+96,MI00001,Mo00362,platinum,2016,ore,-1129000.000000,tonnes,0.700000,"grams per tonne",30000.000000,ounces,Proven,"Mineral Reserve",CIM,"Page 15-2, Table 15-1",22,NULL
+97,MI00001,Mo00363,copper,2016,ore,-290000.000000,tonnes,1.400000,percent,4100.000000,tonnes,Inferred,"Mineral Resource",CIM,"Page 14-2, Table 14-1",22,NULL
+98,MI00001,Mo00363,cobalt,2016,ore,-1544000.000000,tonnes,0.100000,percent,1500.000000,tonnes,Probable,"Mineral Reserve",CIM,"Page 15-2, Table 15-1",22,NULL
+99,MI00001,Mo00363,cobalt,2016,ore,-1293000.000000,tonnes,0.100000,percent,1300.000000,tonnes,Indicated,"Mineral Resource",CIM,"Page 14-2, Table 14-1",22,NULL
+100,MI00001,Mo00363,platinum,2016,ore,-290000.000000,tonnes,0.500000,"grams per tonne",150000.111000,grams,Inferred,"Mineral Resource",CIM,"Page 14-2, Table 14-1",22,NULL
+101,MI00001,Mo00363,silver,2016,ore,-290000.000000,tonnes,6.000000,"grams per tonne",60000.000000,ounces,Inferred,"Mineral Resource",CIM,"Page 14-2, Table 14-1",22,NULL
+102,MI00001,Mo00363,palladium,2016,ore,-290000.000000,tonnes,0.300000,"grams per tonne",87000.111000,grams,Inferred,"Mineral Resource",CIM,"Page 14-2, Table 14-1",22,NULL
+103,MI00001,Mo00363,silver,2016,ore,-1544000.000000,tonnes,10.600000,"grams per tonne",40000.000000,ounces,Probable,"Mineral Reserve",CIM,"Page 15-2, Table 15-1",22,NULL
+104,MI00001,Mo00363,gold,2016,ore,-290000.000000,tonnes,0.200000,"grams per tonne",58000.111000,grams,Inferred,"Mineral Resource",CIM,"Page 14-2, Table 14-1",22,NULL
+105,MI00001,Mo00363,palladium,2016,ore,-1293000.000000,tonnes,1.300000,"grams per tonne",50000.000000,ounces,Indicated,"Mineral Resource",CIM,"Page 14-2, Table 14-1",22,NULL
+106,MI00001,Mo00363,silver,2016,ore,-1293000.000000,tonnes,15.300000,"grams per tonne",640000.000000,ounces,Indicated,"Mineral Resource",CIM,"Page 14-2, Table 14-1",22,NULL
+107,MI00001,Mo00363,nickel,2016,ore,-290000.000000,tonnes,1.700000,percent,4900.000000,tonnes,Inferred,"Mineral Resource",CIM,"Page 14-2, Table 14-1",22,NULL
+108,MI00001,Mo00363,nickel,2016,ore,-1544000.000000,tonnes,3.700000,percent,57100.000000,tonnes,Probable,"Mineral Reserve",CIM,"Page 15-2, Table 15-1",22,NULL
+109,MI00001,Mo00363,gold,2016,ore,-1544000.000000,tonnes,0.400000,"grams per tonne",60000.000000,ounces,Probable,"Mineral Reserve",CIM,"Page 15-2, Table 15-1",22,NULL
+110,MI00001,Mo00363,gold,2016,ore,-1293000.000000,tonnes,0.500000,"grams per tonne",20000.000000,ounces,Indicated,"Mineral Resource",CIM,"Page 14-2, Table 14-1",22,NULL
+111,MI00001,Mo00363,copper,2016,ore,-1544000.000000,tonnes,3.000000,percent,46300.000000,tonnes,Probable,"Mineral Reserve",CIM,"Page 15-2, Table 15-1",22,NULL
+112,MI00001,Mo00363,copper,2016,ore,-1293000.000000,tonnes,4.200000,percent,54300.000000,tonnes,Indicated,"Mineral Resource",CIM,"Page 14-2, Table 14-1",22,NULL
+113,MI00001,Mo00363,palladium,2016,ore,-1544000.000000,tonnes,0.900000,"grams per tonne",530000.000000,ounces,Probable,"Mineral Reserve",CIM,"Page 15-2, Table 15-1",22,NULL
+114,MI00001,Mo00363,platinum,2016,ore,-1293000.000000,tonnes,1.700000,"grams per tonne",70000.000000,ounces,Indicated,"Mineral Resource",CIM,"Page 14-2, Table 14-1",22,NULL
+115,MI00001,Mo00363,platinum,2016,ore,-1544000.000000,tonnes,1.200000,"grams per tonne",20000.000000,ounces,Probable,"Mineral Reserve",CIM,"Page 15-2, Table 15-1",22,NULL
+116,MI00001,Mo00363,nickel,2016,ore,-1293000.000000,tonnes,5.200000,percent,67200.000000,tonnes,Indicated,"Mineral Resource",CIM,"Page 14-2, Table 14-1",22,NULL
+117,MN00002,Mo00746,silver,2018,ore,-254669000.000000,tons,1.060000,"parts per million",270.111000,tons,"Proven plus Probable","Mineral Reserve",CIM,"Page 22, Table 1-1",11,NULL
+118,MN00002,Mo00746,nickel,2018,ore,-649300000.000000,tons,0.074000,percent,480000.111000,tons,"Measured plus Indicated","Mineral Resource",CIM,"Page 23, Table 1-2",11,NULL
+119,MN00002,Mo00746,silver,2018,ore,-508900000.000000,tons,0.930000,"parts per million",470.111000,tons,Inferred,"Mineral Resource",CIM,"Page 23, Table 1-2",11,NULL
+120,MN00002,Mo00746,silver,2018,ore,-649300000.000000,tons,0.910000,"parts per million",590.111000,tons,"Measured plus Indicated","Mineral Resource",CIM,"Page 23, Table 1-2",11,NULL
+121,MN00002,Mo00746,cobalt,2018,ore,-508900000.000000,tons,66.000000,"parts per million",34000.111000,tons,Inferred,"Mineral Resource",CIM,"Page 23, Table 1-2",11,NULL
+122,MN00002,Mo00746,cobalt,2017,ore,923900000.000000,"metric tons",0.010000,percent,92000.000000,"metric tons",NULL,"Resources inclusive of Reserves",NULL,"Page F38, Table F1",101,NULL
+123,MN00002,Mo00746,gold,2018,ore,-649300000.000000,tons,33.000000,"parts per billion",21.111000,tons,"Measured plus Indicated","Mineral Resource",CIM,"Page 23, Table 1-2",11,NULL
+124,MN00002,Mo00746,nickel,2018,ore,-254669000.000000,tons,0.084000,percent,210000.111000,tons,"Proven plus Probable","Mineral Reserve",CIM,"Page 22, Table 1-1",11,NULL
+125,MN00002,Mo00746,palladium,2018,ore,-649300000.000000,tons,221.000000,"parts per billion",144.111000,tons,"Measured plus Indicated","Mineral Resource",CIM,"Page 23, Table 1-2",11,NULL
+126,MN00002,Mo00746,copper,2018,ore,-254669000.000000,tons,0.294000,percent,749000.111000,tons,"Proven plus Probable","Mineral Reserve",CIM,"Page 22, Table 1-1",11,NULL
+127,MN00002,Mo00746,palladium,2018,ore,-508900000.000000,tons,234.000000,"parts per billion",119.111000,tons,Inferred,"Mineral Resource",CIM,"Page 23, Table 1-2",11,NULL
+128,MN00002,Mo00746,platinum,2018,ore,-649300000.000000,tons,65.000000,"parts per billion",42.111000,tons,"Measured plus Indicated","Mineral Resource",CIM,"Page 23, Table 1-2",11,NULL
+129,MN00002,Mo00746,copper,2018,ore,-649300000.000000,tons,0.240000,percent,1590000.111000,tons,"Measured plus Indicated","Mineral Resource",CIM,"Page 23, Table 1-2",11,NULL
+130,MN00002,Mo00746,cobalt,2018,ore,-254669000.000000,tons,74.420000,"parts per million",18950.111000,tons,"Proven plus Probable","Mineral Reserve",CIM,"Page 22, Table 1-1",11,NULL
+131,MN00002,Mo00746,copper,2018,ore,-508900000.000000,tons,0.240000,percent,1220000.111000,tons,Inferred,"Mineral Resource",CIM,"Page 23, Table 1-2",11,NULL
+132,MN00002,Mo00746,palladium,2018,ore,-254669000.000000,tons,268.000000,"parts per billion",68.311000,tons,"Proven plus Probable","Mineral Reserve",CIM,"Page 22, Table 1-1",11,NULL
+133,MN00002,Mo00746,platinum,2018,ore,-254669000.000000,tons,80.000000,"parts per billion",20.111000,tons,"Proven plus Probable","Mineral Reserve",CIM,"Page 22, Table 1-1",11,NULL
+134,MN00002,Mo00746,nickel,2018,ore,-508900000.000000,tons,0.070000,percent,360000.111000,tons,Inferred,"Mineral Resource",CIM,"Page 23, Table 1-2",11,NULL
+135,MN00002,Mo00746,cobalt,2018,ore,-649300000.000000,tons,71.000000,"parts per million",46000.111000,tons,"Measured plus Indicated","Mineral Resource",CIM,"Page 23, Table 1-2",11,NULL
+136,MN00002,Mo00746,gold,2018,ore,-508900000.000000,tons,37.000000,"parts per billion",19.111000,tons,Inferred,"Mineral Resource",CIM,"Page 23, Table 1-2",11,NULL
+137,MN00002,Mo00746,platinum,2018,ore,-508900000.000000,tons,72.000000,"parts per billion",37.111000,tons,Inferred,"Mineral Resource",CIM,"Page 23, Table 1-2",11,NULL
+138,MN00002,Mo00746,gold,2018,ore,-254669000.000000,tons,39.000000,"parts per billion",9.911000,tons,"Proven plus Probable","Mineral Reserve",CIM,"Page 22, Table 1-1",11,NULL
+139,MN00003,Mo00719,platinum,2014,ore,-239000000.000000,"short tons",0.180000,"parts per million",1300000.000000,ounces,Inferred,"Mineral Resource",CIM,"Page 14-39, Table 14-20",4,NULL
+140,MN00003,Mo00719,palladium,2014,ore,-99700000.000000,"short tons",0.515000,"parts per million",1500000.000000,ounces,Indicated,"Mineral Resource",CIM,"Page 14-39, Table 14-20",4,NULL
+141,MN00003,Mo00719,copper,2014,ore,-99700000.000000,"short tons",0.520000,percent,1037000000.000000,pounds,Indicated,"Mineral Resource",CIM,"Page 14-39, Table 14-20",4,NULL
+142,MN00003,Mo00719,gold,2014,ore,-99700000.000000,"short tons",0.115000,"parts per million",300000.000000,ounces,Indicated,"Mineral Resource",CIM,"Page 14-39, Table 14-20",4,NULL
+143,MN00003,Mo00719,nickel,2014,ore,-99700000.000000,"short tons",0.160000,percent,319000000.000000,pounds,Indicated,"Mineral Resource",CIM,"Page 14-39, Table 14-20",4,NULL
+144,MN00003,Mo00719,nickel,2014,ore,-239000000.000000,"short tons",0.150000,percent,707000000.000000,pounds,Inferred,"Mineral Resource",CIM,"Page 14-39, Table 14-20",4,NULL
+145,MN00003,Mo00719,palladium,2014,ore,-239000000.000000,"short tons",0.370000,"parts per million",2600000.000000,ounces,Inferred,"Mineral Resource",CIM,"Page 14-39, Table 14-20",4,NULL
+146,MN00003,Mo00719,platinum,2014,ore,-99700000.000000,"short tons",0.235000,"parts per million",700000.000000,ounces,Indicated,"Mineral Resource",CIM,"Page 14-39, Table 14-20",4,NULL
+147,MN00003,Mo00719,copper,2014,ore,-239000000.000000,"short tons",0.460000,percent,2189000000.000000,pounds,Inferred,"Mineral Resource",CIM,"Page 14-39, Table 14-20",4,NULL
+148,MN00003,Mo00719,gold,2014,ore,-239000000.000000,"short tons",0.087000,"parts per million",600000.000000,ounces,Inferred,"Mineral Resource",CIM,"Page 14-39, Table 14-20",4,NULL
+149,MN00003,Mo00720,palladium,2014,ore,-102600000.000000,"short tons",0.185000,"parts per million",600000.000000,ounces,Indicated,"Mineral Resource",CIM,"Page 14-37, Table 14-18",4,NULL
+150,MN00003,Mo00720,copper,2014,ore,-102600000.000000,"short tons",0.480000,percent,976000000.000000,pounds,Indicated,"Mineral Resource",CIM,"Page 14-37, Table 14-18",4,NULL
+151,MN00003,Mo00720,copper,2014,ore,-32300000.000000,"short tons",0.430000,percent,281000000.000000,pounds,Inferred,"Mineral Resource",CIM,"Page 14-37, Table 14-18",4,NULL
+152,MN00003,Mo00720,platinum,2014,ore,-32300000.000000,"short tons",0.065000,"parts per million",100000.000000,ounces,Inferred,"Mineral Resource",CIM,"Page 14-37, Table 14-18",4,NULL
+153,MN00003,Mo00720,palladium,2014,ore,-32300000.000000,"short tons",0.157000,"parts per million",100000.000000,ounces,Inferred,"Mineral Resource",CIM,"Page 14-37, Table 14-18",4,NULL
+154,MN00003,Mo00720,cobalt,2014,ore,-102600000.000000,"short tons",108.100000,"parts per million",22000000.000000,pounds,Indicated,"Mineral Resource",CIM,"Page 14-37, Table 14-18",4,NULL
+155,MN00003,Mo00720,cobalt,2014,ore,-32300000.000000,"short tons",102.200000,"parts per million",7000000.000000,pounds,Inferred,"Mineral Resource",CIM,"Page 14-37, Table 14-18",4,NULL
+156,MN00003,Mo00720,nickel,2014,ore,-102600000.000000,"short tons",0.170000,percent,340000000.000000,pounds,Indicated,"Mineral Resource",CIM,"Page 14-37, Table 14-18",4,NULL
+157,MN00003,Mo00720,gold,2014,ore,-102600000.000000,"short tons",0.048000,"parts per million",100000.000000,ounces,Indicated,"Mineral Resource",CIM,"Page 14-37, Table 14-18",4,NULL
+158,MN00003,Mo00720,nickel,2014,ore,-32300000.000000,"short tons",0.150000,percent,97000000.000000,pounds,Inferred,"Mineral Resource",CIM,"Page 14-37, Table 14-18",4,NULL
+159,MN00003,Mo00720,gold,2014,ore,-32300000.000000,"short tons",0.041000,"parts per million",1.311000,"short tons",Inferred,"Mineral Resource",CIM,"Page 14-37, Table 14-18",4,NULL
+160,MN00003,Mo00720,silver,2014,ore,-102600000.000000,"short tons",1.590000,"parts per million",4700000.000000,ounces,Indicated,"Mineral Resource",CIM,"Page 14-37, Table 14-18",4,NULL
+161,MN00003,Mo00720,silver,2014,ore,-32300000.000000,"short tons",1.430000,"parts per million",1300000.000000,ounces,Inferred,"Mineral Resource",CIM,"Page 14-37, Table 14-18",4,NULL
+162,MN00003,Mo00720,platinum,2014,ore,-102600000.000000,"short tons",0.080000,"parts per million",200000.000000,ounces,Indicated,"Mineral Resource",CIM,"Page 14-37, Table 14-18",4,NULL
+163,MN00003,Mo00721,nickel,2014,ore,-1130000000.000000,"short tons",0.190000,percent,4286000000.000000,pounds,"Measured plus Indicated","Mineral Resource",CIM,"Page 14-35, Table 14-16",4,NULL
+164,MN00003,Mo00721,gold,2014,ore,-530600000.000000,"short tons",0.070000,"parts per million",1100000.000000,ounces,Inferred,"Mineral Resource",CIM,"Page 14-35, Table 14-16",4,NULL
+165,MN00003,Mo00721,nickel,2014,ore,-530600000.000000,"short tons",0.160000,percent,1730000000.000000,pounds,Inferred,"Mineral Resource",CIM,"Page 14-35, Table 14-16",4,NULL
+166,MN00003,Mo00721,cobalt,2014,ore,-530600000.000000,"short tons",97.600000,"parts per million",104000000.000000,pounds,Inferred,"Mineral Resource",CIM,"Page 14-35, Table 14-16",4,NULL
+167,MN00003,Mo00721,platinum,2014,ore,-530600000.000000,"short tons",0.138000,"parts per million",2100000.000000,ounces,Inferred,"Mineral Resource",CIM,"Page 14-35, Table 14-16",4,NULL
+168,MN00003,Mo00721,palladium,2014,ore,-1130000000.000000,"short tons",0.347000,"parts per million",11400000.000000,ounces,"Measured plus Indicated","Mineral Resource",CIM,"Page 14-35, Table 14-16",4,NULL
+169,MN00003,Mo00721,cobalt,2014,ore,-1130000000.000000,"short tons",104.500000,"parts per million",236000000.000000,pounds,"Measured plus Indicated","Mineral Resource",CIM,"Page 14-35, Table 14-16",4,NULL
+170,MN00003,Mo00721,gold,2014,ore,-1130000000.000000,"short tons",0.083000,"parts per million",2700000.000000,ounces,"Measured plus Indicated","Mineral Resource",CIM,"Page 14-35, Table 14-16",4,NULL
+171,MN00003,Mo00721,silver,2014,ore,-530600000.000000,"short tons",1.810000,"parts per million",28000000.000000,ounces,Inferred,"Mineral Resource",CIM,"Page 14-35, Table 14-16",4,NULL
+172,MN00003,Mo00721,silver,2014,ore,-1130000000.000000,"short tons",2.140000,"parts per million",70700000.000000,ounces,"Measured plus Indicated","Mineral Resource",CIM,"Page 14-35, Table 14-16",4,NULL
+173,MN00003,Mo00721,palladium,2014,ore,-530600000.000000,"short tons",0.314000,"parts per million",4900000.000000,ounces,Inferred,"Mineral Resource",CIM,"Page 14-35, Table 14-16",4,NULL
+174,MN00003,Mo00721,platinum,2014,ore,-1130000000.000000,"short tons",0.153000,"parts per million",5000000.000000,ounces,"Measured plus Indicated","Mineral Resource",CIM,"Page 14-35, Table 14-16",4,NULL
+175,MN00003,Mo00721,copper,2014,ore,-1130000000.000000,"short tons",0.590000,percent,13366000000.000000,pounds,"Measured plus Indicated","Mineral Resource",CIM,"Page 14-35, Table 14-16",4,NULL
+176,MN00003,Mo00721,copper,2014,ore,-530600000.000000,"short tons",0.490000,percent,5242000000.000000,pounds,Inferred,"Mineral Resource",CIM,"Page 14-35, Table 14-16",4,NULL
+177,MN00003,Mo00722,copper,2014,ore,-480000000.000000,"short tons",0.430000,percent,4128000000.000000,pounds,Inferred,"Mineral Resource",CIM,"Page 14-40, Table 14-21",4,NULL
+178,MN00003,Mo00722,nickel,2014,ore,-480000000.000000,"short tons",0.160000,percent,1536000000.000000,pounds,Inferred,"Mineral Resource",CIM,"Page 14-40, Table 14-21",4,NULL
+179,MN00008,Mo00740,nickel,2018,ore,-2705000.000000,tonnes,0.950000,percent,26000.111000,tonnes,Inferred,"Mineral Resource",CIM,"Page 187, Table 14-18",42,NULL
+180,MN00008,Mo00740,platinum,2018,ore,-2705000.000000,tonnes,0.230000,"grams per tonne",620000.111000,grams,Inferred,"Mineral Resource",CIM,"Page 187, Table 14-18",42,NULL
+181,MN00008,Mo00740,cobalt,2018,ore,-2705000.000000,tonnes,0.030000,percent,810.111000,tonnes,Inferred,"Mineral Resource",CIM,"Page 187, Table 14-18",42,NULL
+182,MN00008,Mo00740,copper,2018,ore,-2705000.000000,tonnes,0.740000,percent,20000.111000,tonnes,Inferred,"Mineral Resource",CIM,"Page 187, Table 14-18",42,NULL
+183,MN00008,Mo00740,gold,2018,ore,-2705000.000000,tonnes,0.160000,"grams per tonne",430000.111000,grams,Inferred,"Mineral Resource",CIM,"Page 187, Table 14-18",42,NULL
+184,MN00008,Mo00740,palladium,2018,ore,-2705000.000000,tonnes,0.130000,"grams per tonne",350000.111000,grams,Inferred,"Mineral Resource",CIM,"Page 187, Table 14-18",42,NULL
+185,MN00008,Mo00741,platinum,2018,ore,-1107000.000000,tonnes,0.220000,"grams per tonne",240000.111000,grams,Inferred,"Mineral Resource",CIM,"Page 187, Table 14-18",42,NULL
+186,MN00008,Mo00741,nickel,2018,ore,-3639000.000000,tonnes,1.830000,percent,66600.111000,tonnes,Indicated,"Mineral Resource",CIM,"Page 187, Table 14-18",42,NULL
+187,MN00008,Mo00741,platinum,2018,ore,-3639000.000000,tonnes,0.420000,"grams per tonne",1500000.111000,grams,Indicated,"Mineral Resource",CIM,"Page 187, Table 14-18",42,NULL
+188,MN00008,Mo00741,cobalt,2018,ore,-3639000.000000,tonnes,0.050000,percent,1800.111000,tonnes,Indicated,"Mineral Resource",CIM,"Page 187, Table 14-18",42,NULL
+189,MN00008,Mo00741,nickel,2018,ore,-1107000.000000,tonnes,0.900000,percent,10000.111000,tonnes,Inferred,"Mineral Resource",CIM,"Page 187, Table 14-18",42,NULL
+190,MN00008,Mo00741,gold,2018,ore,-3639000.000000,tonnes,0.200000,"grams per tonne",730000.111000,grams,Indicated,"Mineral Resource",CIM,"Page 187, Table 14-18",42,NULL
+191,MN00008,Mo00741,palladium,2018,ore,-1107000.000000,tonnes,0.140000,"grams per tonne",150000.111000,grams,Inferred,"Mineral Resource",CIM,"Page 187, Table 14-18",42,NULL
+192,MN00008,Mo00741,copper,2018,ore,-3639000.000000,tonnes,0.990000,percent,36000.111000,tonnes,Indicated,"Mineral Resource",CIM,"Page 187, Table 14-18",42,NULL
+193,MN00008,Mo00741,palladium,2018,ore,-3639000.000000,tonnes,0.260000,"grams per tonne",950000.111000,grams,Indicated,"Mineral Resource",CIM,"Page 187, Table 14-18",42,NULL
+194,MN00008,Mo00741,gold,2018,ore,-1107000.000000,tonnes,0.120000,"grams per tonne",130000.111000,grams,Inferred,"Mineral Resource",CIM,"Page 187, Table 14-18",42,NULL
+195,MN00008,Mo00741,copper,2018,ore,-1107000.000000,tonnes,0.550000,percent,6100.111000,tonnes,Inferred,"Mineral Resource",CIM,"Page 187, Table 14-18",42,NULL
+196,MN00008,Mo00741,cobalt,2018,ore,-1107000.000000,tonnes,0.030000,percent,330.111000,tonnes,Inferred,"Mineral Resource",CIM,"Page 187, Table 14-18",42,NULL
+197,MN00008,Mo00742,nickel,2018,ore,-570000.000000,tonnes,5.860000,percent,33400.111000,tonnes,Inferred,"Mineral Resource",CIM,"Page 187, Table 14-18",42,NULL
+198,MN00008,Mo00742,cobalt,2018,ore,-570000.000000,tonnes,0.120000,percent,680.111000,tonnes,Inferred,"Mineral Resource",CIM,"Page 187, Table 14-18",42,NULL
+199,MN00008,Mo00742,platinum,2018,ore,-570000.000000,tonnes,0.680000,"grams per tonne",390000.111000,grams,Inferred,"Mineral Resource",CIM,"Page 187, Table 14-18",42,NULL
+200,MN00008,Mo00742,copper,2018,ore,-570000.000000,tonnes,2.460000,percent,14000.111000,tonnes,Inferred,"Mineral Resource",CIM,"Page 187, Table 14-18",42,NULL
+201,MN00008,Mo00742,gold,2018,ore,-570000.000000,tonnes,0.250000,"grams per tonne",140000.111000,grams,Inferred,"Mineral Resource",CIM,"Page 187, Table 14-18",42,NULL
+202,MN00008,Mo00742,palladium,2018,ore,-570000.000000,tonnes,0.510000,"grams per tonne",290000.111000,grams,Inferred,"Mineral Resource",CIM,"Page 187, Table 14-18",42,NULL
+203,MO00002,Mo00774,nickel,1959,ore,-9349040.000000,tons,0.180000,percent,17000.111000,tons,Indicated,"Drill-Indicated Mineral Inventory",NULL,"Page 12",61,NULL
+204,MO00002,Mo00774,cobalt,1959,ore,-9349040.000000,tons,0.160000,percent,15000.111000,tons,Indicated,"Drill-Indicated Mineral Inventory",NULL,"Page 12",61,NULL
+205,MO00002,Mo00774,lead,1959,ore,-9349040.000000,tons,2.350000,percent,220000.111000,tons,Indicated,"Drill-Indicated Mineral Inventory",NULL,"Page 12",61,NULL
+206,MO00002,Mo00774,copper,1959,ore,-9349040.000000,tons,0.220000,percent,21000.111000,tons,Indicated,"Drill-Indicated Mineral Inventory",NULL,"Page 12",61,NULL
+207,MO00002,Mo00774,zinc,1959,ore,-9349040.000000,tons,1.220000,percent,114000.111000,tons,Indicated,"Drill-Indicated Mineral Inventory",NULL,"Page 12",61,NULL
+208,MO00013,Mo00559,nickel,1957,ore,-3000000.000000,"short tons",0.200000,percent,6000.111000,"short tons",Probable,Reserve,NULL,"Page 6",60,NULL
+209,MO00013,Mo00559,nickel,1957,ore,-1500000.000000,"short tons",0.240000,percent,3600.111000,"short tons",Proven,Reserve,NULL,"Page 6",60,NULL
+210,MO00013,Mo00559,cobalt,1957,ore,-3000000.000000,"short tons",0.160000,percent,4800.111000,"short tons",Probable,Reserve,NULL,"Page 6",60,NULL
+211,MO00013,Mo00559,lead,1957,ore,-3000000.000000,"short tons",1.750000,percent,52500.111000,"short tons",Probable,Reserve,NULL,"Page 6",60,NULL
+212,MO00013,Mo00559,copper,1957,ore,-1500000.000000,"short tons",0.600000,percent,9000.111000,"short tons",Proven,Reserve,NULL,"Page 6",60,NULL
+213,MO00013,Mo00559,cobalt,2002,ore,12081000.000000,"metric tons",0.350000,percent,42284.111000,"metric tons",NULL,Resource,NULL,NULL,109,NULL
+214,MO00013,Mo00559,copper,1957,ore,-3000000.000000,"short tons",0.400000,percent,12000.111000,"short tons",Probable,Reserve,NULL,"Page 6",60,NULL
+215,MO00013,Mo00559,lead,1957,ore,-1500000.000000,"short tons",2.300000,percent,35000.111000,"short tons",Proven,Reserve,NULL,"Page 6",60,NULL
+216,MO00013,Mo00559,cobalt,1957,ore,-1500000.000000,"short tons",0.180000,percent,2700.111000,"short tons",Proven,Reserve,NULL,"Page 6",60,NULL
+217,MO00014,Mo00560,iron,1974,ore,-40000000.000000,"short tons",18.000000,percent,7200000.111000,"short tons",NULL,Resource,NULL,NULL,66,NULL
+218,MO00014,Mo00560,copper,1974,ore,-40000000.000000,"short tons",0.830000,percent,330000.111000,"short tons",NULL,Resource,NULL,NULL,66,"Supported by resource in Nold and others (2014)"
+219,MO00014,Mo00560,cobalt,1974,ore,-40000000.000000,"short tons",0.035000,percent,14000.111000,"short tons",NULL,Resource,NULL,NULL,66,NULL
+220,MT00002,Mo00754,copper,1988,ore,-5000000.000000,tons,2.500000,percent,130000.111000,tons,NULL,NULL,NULL,"Page 11",24,NULL
+221,MT00002,Mo00754,cobalt,2013,ore,-9179000.000000,tonnes,0.120000,percent,24900000.000000,pounds,"Measured plus Indicated","Mineral Resource",CIM,"Page 1-8, Table 1.2",118,NULL
+222,MT00002,Mo00754,copper,2013,ore,-9179000.000000,tonnes,2.830000,percent,573000000.000000,pounds,"Measured plus Indicated","Mineral Resource",CIM,"Page 1-8, Table 1.2",118,NULL
+223,MT00002,Mo00754,cobalt,1988,ore,-5000000.000000,tons,0.100000,percent,5000.111000,tons,NULL,NULL,NULL,"Page 11",24,NULL
+224,MT00002,Mo00754,copper,2013,ore,-1255000.000000,tonnes,2.520000,percent,70000000.000000,pounds,Inferred,"Mineral Resource",CIM,"Page 1-9, Table 1.3",118,NULL
+225,MT00002,Mo00754,cobalt,2013,ore,-1255000.000000,tonnes,0.100000,percent,2800000.000000,pounds,Inferred,"Mineral Resource",CIM,"Page 1-9, Table 1.3",118,NULL
+226,MT00002,Mo00754,gold,2013,ore,-1255000.000000,tonnes,0.008000,"grams per tonne",300.000000,ounces,Inferred,"Mineral Resource",CIM,"Page 1-9, Table 1.3",118,NULL
+227,MT00002,Mo00754,gold,2013,ore,-9179000.000000,tonnes,0.008000,"grams per tonne",2500.000000,ounces,"Measured plus Indicated","Mineral Resource",CIM,"Page 1-8, Table 1.2",118,NULL
+228,MT00002,Mo00754,silver,2013,ore,-1255000.000000,tonnes,15.200000,"grams per tonne",613000.000000,ounces,Inferred,"Mineral Resource",CIM,"Page 1-9, Table 1.3",118,NULL
+229,MT00002,Mo00754,silver,2013,ore,-9179000.000000,tonnes,15.700000,"grams per tonne",4642000.000000,ounces,"Measured plus Indicated","Mineral Resource",CIM,"Page 1-8, Table 1.2",118,NULL
+230,MT00002,Mo00755,cobalt,2013,ore,-205000.000000,tonnes,0.030000,percent,100000.000000,pounds,Inferred,"Mineral Resource",CIM,"Page 1-9, Table 1.5",118,NULL
+231,MT00002,Mo00755,copper,2013,ore,-205000.000000,tonnes,5.330000,percent,24000000.000000,pounds,Inferred,"Mineral Resource",CIM,"Page 1-9, Table 1.5",118,NULL
+232,MT00002,Mo00755,cobalt,2013,ore,-2387000.000000,tonnes,0.030000,percent,1700000.000000,pounds,Indicated,"Mineral Resource",CIM,"Page 1-9, Table 1.4",118,NULL
+233,MT00002,Mo00755,gold,2013,ore,-2387000.000000,tonnes,0.304000,"grams per tonne",23300.000000,ounces,Indicated,"Mineral Resource",CIM,"Page 1-9, Table 1.4",118,NULL
+234,MT00002,Mo00755,silver,2013,ore,-2387000.000000,tonnes,4.500000,"grams per tonne",345000.000000,ounces,Indicated,"Mineral Resource",CIM,"Page 1-9, Table 1.4",118,NULL
+235,MT00002,Mo00755,gold,2013,ore,-205000.000000,tonnes,0.207000,"grams per tonne",1400.000000,ounces,Inferred,"Mineral Resource",CIM,"Page 1-9, Table 1.5",118,NULL
+236,MT00002,Mo00755,copper,1988,ore,2000000.000000,tons,6.000000,percent,120000.111000,tons,NULL,NULL,NULL,"Page 11",24,NULL
+237,MT00002,Mo00755,copper,2013,ore,-2387000.000000,tonnes,6.400000,percent,337000000.000000,pounds,Indicated,"Mineral Resource",CIM,"Page 1-9, Table 1.4",118,NULL
+238,MT00002,Mo00755,silver,2013,ore,-205000.000000,tonnes,4.100000,"grams per tonne",27000.000000,ounces,Inferred,"Mineral Resource",CIM,"Page 1-9, Table 1.5",118,NULL
+239,MT00002,Mo00756,silver,2013,ore,-801000.000000,tonnes,14.100000,"grams per tonne",363000.000000,ounces,Inferred,"Mineral Resource",CIM,"Page 1-10, Table 1.7",118,NULL
+240,MT00002,Mo00756,copper,2013,ore,-801000.000000,tonnes,2.580000,percent,46000000.000000,pounds,Inferred,"Mineral Resource",CIM,"Page 1-10, Table 1.7",118,NULL
+241,MT00002,Mo00756,copper,2013,ore,-4099000.000000,tonnes,2.940000,percent,266000000.000000,pounds,Indicated,"Mineral Resource",CIM,"Page 1-10, Table 1.6",118,NULL
+242,MT00002,Mo00756,gold,2013,ore,-801000.000000,tonnes,0.008000,"grams per tonne",200.000000,ounces,Inferred,"Mineral Resource",CIM,"Page 1-10, Table 1.7",118,NULL
+243,MT00002,Mo00756,gold,2013,ore,-4099000.000000,tonnes,0.006000,"grams per tonne",800.000000,ounces,Indicated,"Mineral Resource",CIM,"Page 1-10, Table 1.6",118,NULL
+244,MT00002,Mo00756,cobalt,2013,ore,-4099000.000000,tonnes,0.100000,percent,9000000.000000,pounds,Indicated,"Mineral Resource",CIM,"Page 1-10, Table 1.6",118,NULL
+245,MT00002,Mo00756,cobalt,2013,ore,-801000.000000,tonnes,0.100000,percent,2000000.000000,pounds,Inferred,"Mineral Resource",CIM,"Page 1-10, Table 1.7",118,NULL
+246,MT00002,Mo00756,silver,2013,ore,-4099000.000000,tonnes,15.100000,"grams per tonne",1990000.000000,ounces,Indicated,"Mineral Resource",CIM,"Page 1-10, Table 1.6",118,NULL
+247,NC00001,Mr00047,nickel,1968,ore,-1000000.000000,tons,1.000000,percent,10000.111000,tons,NULL,Resource,NULL,"Page 375",108,NULL
+248,NC00001,Mr00047,cobalt,1968,ore,-1000000.000000,tons,0.160000,percent,1600.111000,tons,NULL,Resource,NULL,"Page 375",108,NULL
+249,NM00041,Mo00773,cobalt,1965,ore,4000000000.000000,pounds,0.150000,percent,6000000.000000,pounds,Probable,"Ore Reserve",NULL,"Page 207",NULL,NULL
+250,OR00001,Mo00748,zinc,2010,ore,-2064000.000000,"short tons",2.600000,percent,107290000.000000,pounds,Inferred,"Mineral Resource",CIM,"Page 17-19, Table 17-4",73,"Recovery plus diluted mineral resource"
+251,OR00001,Mo00748,gold,2010,ore,-2422000.000000,"short tons",0.086000,"ounces per ton",209000.000000,ounces,Indicated,"Mineral Resource",CIM,"Page 17-19, Table 17-4",73,"Recovery plus diluted mineral resource"
+252,OR00001,Mo00748,cobalt,2010,ore,-2064000.000000,"short tons",0.036000,percent,740.111000,"short tons",Inferred,"Mineral Resource",CIM,"Page 17-19, Table 17-4",73,"Recovery plus diluted mineral resource"
+253,OR00001,Mo00748,cobalt,2010,ore,-2422000.000000,"short tons",0.046000,percent,1100.111000,"short tons",Indicated,"Mineral Resource",CIM,"Page 17-19, Table 17-4",73,"Recovery plus diluted mineral resource"
+254,OR00001,Mo00748,copper,2010,ore,-2422000.000000,"short tons",1.180000,percent,572455000.000000,pounds,Indicated,"Mineral Resource",CIM,"Page 17-19, Table 17-4",73,"Recovery plus diluted mineral resource"
+255,OR00001,Mo00748,copper,2010,ore,-2064000.000000,"short tons",0.940000,percent,38991000.000000,pounds,Inferred,"Mineral Resource",CIM,"Page 17-19, Table 17-4",73,"Recovery plus diluted mineral resource"
+256,OR00001,Mo00748,silver,2010,ore,-2422000.000000,"short tons",0.300000,"ounces per ton",718000.000000,ounces,Indicated,"Mineral Resource",CIM,"Page 17-19, Table 17-4",73,"Recovery plus diluted mineral resource"
+257,OR00001,Mo00748,zinc,2010,ore,-2422000.000000,"short tons",2.480000,percent,120169000.000000,pounds,Indicated,"Mineral Resource",CIM,"Page 17-19, Table 17-4",73,"Recovery plus diluted mineral resource"
+258,OR00001,Mo00748,gold,2010,ore,-2064000.000000,"short tons",0.084000,"ounces per ton",174000.000000,ounces,Inferred,"Mineral Resource",CIM,"Page 17-19, Table 17-4",73,"Recovery plus diluted mineral resource"
+259,OR00001,Mo00748,silver,2010,ore,-2064000.000000,"short tons",0.590000,"ounces per ton",1223000.000000,ounces,Inferred,"Mineral Resource",CIM,"Page 17-19, Table 17-4",73,"Recovery plus diluted mineral resource"
+260,OR00002,Mo00561,"chromium trioxide",1975,ore,-9044000.000000,tonnes,0.930000,percent,84110.111000,tonnes,Indicated,Unclassified,NULL,"Pages 4 and 5",93,NULL
+261,OR00002,Mo00561,nickel,1975,ore,-9044000.000000,tonnes,0.560000,percent,51000.111000,tonnes,Indicated,Unclassified,NULL,"Pages 4 and 5",93,NULL
+262,OR00002,Mo00561,cobalt,1975,ore,-9044000.000000,tonnes,0.040000,percent,3600.111000,tonnes,Indicated,Unclassified,NULL,"Pages 4 and 5",93,NULL
+263,OR00005,Mo00767,cobalt,1973,ore,16000000.000000,tons,0.050000,percent,8000.111000,tons,NULL,Reserve,NULL,"Page 148",113,NULL
+264,PR00001,Mo00629,nickel,1959,ore,-46800000.000000,"short tons",0.880000,percent,412000.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+265,PR00001,Mo00629,cobalt,1959,ore,-46800000.000000,"short tons",0.080000,percent,37400.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+266,PR00001,Mo00629,chromium,1959,ore,-46800000.000000,"short tons",0.510000,percent,240000.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+267,PR00001,Mo00629,iron,1959,ore,-46800000.000000,"short tons",20.540000,percent,9610000.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+268,PR00002,Mo00630,iron,1959,ore,-2100000.000000,"short tons",19.030000,percent,400000.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+269,PR00002,Mo00630,cobalt,1959,ore,-2100000.000000,"short tons",0.070000,percent,1500.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+270,PR00002,Mo00630,chromium,1959,ore,-2100000.000000,"short tons",0.630000,percent,13000.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+271,PR00002,Mo00630,nickel,1959,ore,-2100000.000000,"short tons",1.030000,percent,22000.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+272,PR00003,Mo00631,iron,1959,ore,-25000000.000000,"short tons",28.390000,percent,7100000.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+273,PR00003,Mo00631,cobalt,1959,ore,-25000000.000000,"short tons",0.120000,percent,30000.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+274,PR00003,Mo00631,nickel,1959,ore,-25000000.000000,"short tons",0.810000,percent,200000.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+275,PR00003,Mo00631,chromium,1959,ore,-25000000.000000,"short tons",0.750000,percent,190000.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+276,PR00004,Mo00632,iron,1959,ore,-4800000.000000,"short tons",20.760000,percent,1000000.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+277,PR00004,Mo00632,cobalt,1959,ore,-4800000.000000,"short tons",0.070000,percent,3400.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+278,PR00004,Mo00632,nickel,1959,ore,-4800000.000000,"short tons",0.850000,percent,41000.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+279,PR00004,Mo00632,chromium,1959,ore,-4800000.000000,"short tons",0.580000,percent,28000.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+280,PR00004,Mo00633,nickel,1959,ore,-1100000.000000,"short tons",0.710000,percent,7800.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+281,PR00004,Mo00633,iron,1959,ore,-1100000.000000,"short tons",12.470000,percent,140000.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+282,PR00004,Mo00633,cobalt,1959,ore,-1100000.000000,"short tons",0.060000,percent,660.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+283,PR00004,Mo00633,chromium,1959,ore,-1100000.000000,"short tons",0.340000,percent,3700.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+284,PR00005,Mo00634,cobalt,1959,ore,-5000000.000000,"short tons",0.100000,percent,5000.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+285,PR00005,Mo00634,chromium,1959,ore,-5000000.000000,"short tons",0.590000,percent,30000.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+286,PR00005,Mo00634,iron,1959,ore,-5000000.000000,"short tons",22.050000,percent,1100000.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+287,PR00005,Mo00634,nickel,1959,ore,-5000000.000000,"short tons",0.980000,percent,49000.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+288,PR00005,Mo00635,chromium,1959,ore,-5600000.000000,"short tons",0.670000,percent,38000.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+289,PR00005,Mo00635,iron,1959,ore,-5600000.000000,"short tons",29.450000,percent,1600000.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+290,PR00005,Mo00635,nickel,1959,ore,-5600000.000000,"short tons",1.080000,percent,60000.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+291,PR00005,Mo00635,cobalt,1959,ore,-5600000.000000,"short tons",0.110000,percent,6200.111000,"short tons",Inferred,"Drill-Indicated Resource",NULL,"Page 31, Table 2",51,NULL
+292,TN00001,Mr00037,cobalt,1973,ore,8000000000.000000,pounds,0.500000,percent,40000000.000000,pounds,NULL,Resource,NULL,"Page 150",113,NULL

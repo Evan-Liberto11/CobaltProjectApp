@@ -1,0 +1,21 @@
+production_id,site_id,ftr_id,material,year_from,year_to,mat_type,mat_amnt,mat_units,grade,grade_unit,contained,cont_units,ref_detail,reference_id,remarks
+1,ID00005,Mf00284,copper,1939,1968,ore,-283741.000000,tons,0.000000,NULL,53450171.000000,pounds,"Page 25",56,NULL
+2,ID00005,Mf00284,cobalt,1939,1968,ore,-283741.000000,tons,0.000000,NULL,13865496.000000,pounds,"Page 25",56,NULL
+3,ID00005,Mf00284,gold,1939,1968,ore,-283741.000000,tons,0.000000,NULL,24136.000000,ounces,"Page 25",56,NULL
+4,ID00005,Mf00284,silver,1939,1968,ore,-283741.000000,tons,0.000000,NULL,53544.000000,ounces,"Page 25",56,NULL
+5,MI00001,Mf00280,copper,2014,2016,concentrate,52000.000000,tonnes,0.000000,NULL,52000.000000,"metric tons",NULL,22,"Production calculated from multiple sources"
+6,MI00001,Mf00280,nickel,2014,2016,concentrate,55000.000000,tonnes,0.000000,NULL,55000.000000,"metric tons",NULL,22,"Production calculated from multiple sources"
+7,MO00013,Mf00285,iron,1944,1961,ore,-4156701.000000,"metric tons",6.390000,percent,265613.111000,"metric tons","Page 1",18,NULL
+8,MO00013,Mf00285,lead,1944,1961,ore,-4156701.000000,"metric tons",2.390000,percent,99345.111000,"metric tons","Page 1",18,NULL
+9,MO00013,Mf00285,copper,1944,1961,ore,-4156701.000000,"metric tons",0.690000,percent,28681.111000,"metric tons","Page 1",18,NULL
+10,MO00013,Mf00285,nickel,1944,1961,ore,-4156701.000000,"metric tons",0.290000,percent,12054.111000,"metric tons","Page 1",18,NULL
+11,MO00013,Mf00285,cobalt,1944,1961,ore,-4156701.000000,"metric tons",0.230000,percent,9560.111000,"metric tons","Page 1",18,NULL
+12,NM00042,Mr00154,silver,1881,1960,commodity,1286000.000000,"troy ounces",0.000000,NULL,1286000.000000,"troy ounces","Table 71",76,NULL
+13,NM00042,Mr00154,gold,1881,1960,commodity,1000.000000,"troy ounces",0.000000,NULL,1000.000000,"troy ounces","Table 71",76,NULL
+14,NM00042,Mr00154,copper,1881,1960,commodity,3000.000000,pounds,0.000000,NULL,3000.000000,pounds,"Table 71",76,NULL
+15,NM00042,Mr00154,lead,1881,1960,commodity,4000.000000,pounds,0.000000,NULL,4000.000000,pounds,"Table 71",76,NULL
+16,OR00005,Mf00577,nickel,1964,1984,commodity,550000000.000000,pounds,0.000000,NULL,550000000.000000,pounds,"Page 9",50,"Production incomplete for years operated"
+17,PA00001,Mf00574,copper,1732,1973,ore,-100000000.000000,tons,0.300000,percent,300000.111000,tons,"Page 422",95,NULL
+18,PA00001,Mf00574,cobalt,1732,1973,ore,-100000000.000000,tons,0.025000,percent,25000.111000,tons,"Page 422",NULL,"Grade from Slack and others (2017)"
+19,PA00001,Mf00574,sulfur,1732,1973,ore,-100000000.000000,tons,1.300000,percent,1300000.111000,tons,"Page 422",95,NULL
+20,PA00001,Mf00574,iron,1732,1973,ore,-100000000.000000,tons,40.000000,percent,40000000.110000,tons,"Page 422",95,NULL
